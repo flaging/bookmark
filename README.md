@@ -1,5 +1,7 @@
-# 福来鸽的简介
+# 福来鸽的文章
 
 半吊子程序猿，立flag好手，间歇性拼搏者。
 
-[测试页面](./Content/Startup.md)
+## random
+
+2020-07-17: [为什么会有这个博客](./Content/random_200717_start_up.md)

@@ -4,4 +4,4 @@
 
 ## random
 
-2020-07-17: [为什么会有这个博客](./Content/random_200717_start_up.md)
+2020-07-17: [为什么会有这个博客](./Content/random_200717_start_up.markdown)

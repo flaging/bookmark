@@ -23,8 +23,8 @@ Tmux是一个将Linux终端中的会话和终端界面分离的一个工具。
 
 主要命令
 ------
-|命令名称|命令含义|
-|------|------|
-|tmux new -s name|建立以name为名字的session|
-|tmux detatch|将session和界面分离|
-|tmux attach -t name|重新接入name session|
+| 命令名称 | 命令含义 |
+|:------:|:------:|
+| tmux new -s name | 建立以name为名字的session |
+| tmux detatch | 将session和界面分离 |
+| tmux attach -t name | 重新接入name session |

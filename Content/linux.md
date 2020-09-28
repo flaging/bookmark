@@ -23,3 +23,18 @@ groupdel groupname
 visudo
 username all=(all) all
 ```
+
+## conda
+
+conda环境中升级python
+
+```bash
+#conda升级python
+conda update python
+#conda下使用pip安装keras
+pip install keras
+```
+
+## vim
+
+[vim实用技巧-读书笔记](./vim.md)

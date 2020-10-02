@@ -74,3 +74,18 @@ BPF
 [BPF介绍](https://mp.weixin.qq.com/s?__biz=MzA5OTAyNzQ2OA==&mid=2649712754&idx=1&sn=891d7166c02693b8af7b36f8a44c5990&chksm=88935711bfe4de074a72f761c1b4d094c5b2ce57b579cea0fedf2baf62516763d1fd5619624f#rd)
 
 一种用于Linux网络过滤的机制或者工具（没有看懂）。
+
+[为什么我说C/C++程序员都要阅读Redis源码之：通过Redis学习事件驱动设计](https://zhuanlan.zhihu.com/p/57882822)
+
+redis的简单介绍：
+
+* 一种内存数据库系统
+* 使用C++的思想设计，使用C语言实现
+* 本文推荐一个下午就能看完该部分代码
+* Github上的源码在[这里](https://github.com/redis/redis)
+
+[CPU简介](https://mp.weixin.qq.com/s?__biz=MzUzODQ0MDY2Nw==&mid=2247483925&idx=1&sn=03170614c1a54c3cecf64d09dd17940f&chksm=fad6e4a1cda16db73e7f011f2fcea2a69454bad8e3eb8c09dad544b722f9425fde585dbb0edb#rd)
+
+介绍类CPU的一些基础知识。
+
+* Cache/Cache line/缓存一致性

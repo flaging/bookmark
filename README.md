@@ -3,26 +3,28 @@
 
 半吊子程序猿，立flag好手，间歇性拼搏者。
 
-BLOGS
-------
+[BLOGS](./old_read_me.md 'BLOG')
 
-[Linux使用记录](./Content/linux.md)
+[BOOKMARKS](./old_read_me.md 'BOOKMARK)
 
-[tmux](./Content/tool_200720_tmux.md)
+## WEEKLY UPDATE
 
-[为什么会有这个博客](./Content/random_200717_start_up.md)
+[2020-10-04](2020/1004.md)
 
-BOOKMARKS
----
+[2020-10-11](2020/.md)
 
-[Linux-系统实现](./bookmarks/Linux.md)
+[2020-10-18](2020/.md)
 
-[doc-文档](./bookmarks/doc.md)
+[2020-10-25](2020/.md)
 
-[tools-工具](./bookmarks/os-tools.md)
+[2020-11-01](2020/.md)
 
-[interesting-tools-有用工具](./bookmarks/interesting-tools.md)
+[2020-11-08](2020/.md)
 
-[AEP-持久内存](./bookmarks/AEP.md)
+[2020-11-15](2020/.md)
 
-[ramble-漫谈编程](./bookmarks/ramble.md)
+[2020-11-22](2020/.md)
+
+[2020-11-29](2020/.md)
+
+[2020-12-09](2020/.md)

@@ -89,3 +89,17 @@ redis的简单介绍：
 介绍类CPU的一些基础知识。
 
 * Cache/Cache line/缓存一致性
+* CPU架构：MMU/TLB/逻辑缓存/物理缓存
+* 常用工具
+  * uptime
+  * top
+  * dstat/mpstat/pidstat
+  * jstack/pstack/gstack
+  * perf
+* 抢占式切换/自愿式切换
+* 上下文切换的条件
+  * 时间片用完
+  * 系统资源不足（比如锁）
+  * 主动sleep挂起
+  * 更高优先级进程运行
+  * 硬件中断

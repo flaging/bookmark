@@ -1,12 +1,9 @@
-# 福来鸽的文章
 
-半吊子程序猿，立flag好手，间歇性拼搏者。
+# [BLOGS](./old_read_me.md 'BLOG')
 
-[BLOGS](./old_read_me.md 'BLOG')
+# [BOOKMARKS](./old_read_me.md 'BOOKMARK')
 
-[BOOKMARKS](./old_read_me.md 'BOOKMARK')
-
-## WEEKLY UPDATE
+# WEEKLY UPDATE
 
 [2020-10-04](2020/1004.md)
 

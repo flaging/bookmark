@@ -1,4 +1,3 @@
-
 # [BLOGS](./old_read_me.md 'BLOG')
 
 # [BOOKMARKS](./old_read_me.md 'BOOKMARK')

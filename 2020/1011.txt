@@ -1,0 +1,26 @@
+# 2020年11月11日
+
+## 操作系统
+
+[**Linux 中高效编写 Bash 脚本的 10 个技巧**](https://mp.weixin.qq.com/s?__biz=MzAxODI5ODMwOA==&mid=2666540923&idx=1&sn=c6588cd27867c2b61b4e3322c574f0e3&chksm=80dcebd0b7ab62c6462ba36db1685f10f5fcf5f6fa049a094cf5112fad5375e9b5231d6f0a47#rd)
+
+* 注释：#这是注释
+* 设置运行失败时退出：set -o errexit / set -e
+* 设置使用未定义变量时退出：set -o nounset / set -u
+* 使用双引号引用避免歧义通配符和括号等导致歧义： "$path"
+* 使用函数封装功能
+* 字符串比较用=而不是==："$var"='hello'
+* 使*用$(command)引用命令的结果，抛弃"command"的用法：user=$(echo “$UID”)
+* 使用readonly声明静态变量：readonly var='hello'
+* 环境变量大写，其他变量小写
+* 对脚本功能进行调试([1](https://linux.cn/article-8028-1.html)/[2](https://linux.cn/article-8045-1.html)/[3](https://linux.cn/article-8045-1.html))
+
+## 实用工具
+
+## 深度学习
+
+## 高性能计算
+
+## 编程语言
+
+## 其他

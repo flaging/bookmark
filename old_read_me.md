@@ -1,4 +1,6 @@
-# BLOG
+# OLD
+
+## BLOG
 
 [Linux使用记录](./Content/linux.md)
 
@@ -6,7 +8,7 @@
 
 [为什么会有这个博客](./Content/random_200717_start_up.md)
 
-# BOOKMARK
+## BOOKMARK
 
 [Linux-系统实现](./bookmarks/Linux.md)
 

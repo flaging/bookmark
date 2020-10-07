@@ -1,8 +1,10 @@
-# [BLOGS](./old_read_me.md 'BLOG')
+# CONTENT
 
-# [BOOKMARKS](./old_read_me.md 'BOOKMARK')
+## [BLOGS](./2020/old_read_me.md)
 
-# WEEKLY UPDATE
+## [BOOKMARKS](./2020/old_read_me.md)
+
+## WEEKLY UPDATE
 
 [2020-10-04](2020/1004.md)
 

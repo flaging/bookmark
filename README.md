@@ -2,6 +2,8 @@
 
 ## [BLOGS](./2020/old_read_me.md)
 
+[vim实用教程](./Content/vim.md)
+
 ## [BOOKMARKS](./2020/old_read_me.md)
 
 ## WEEKLY UPDATE

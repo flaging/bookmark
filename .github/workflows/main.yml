@@ -32,6 +32,8 @@ jobs:
       
       - name: git clone
         run: |
+          apt install python3-pip
+          pip3 install feedparser
           git config --local user.email "liyupeng341@163.com"
           git config --local user.name "flaging-bot"
           git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}

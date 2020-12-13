@@ -29,10 +29,13 @@ jobs:
       # Runs a single command using the runners shell
       - name: Run a one-line script
         run: echo Hello, world!
-      
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.8'
       - name: git clone
         run: |
-          python3 -m pip install --upgrade pip3
+          python -m pip install --upgrade pip
           pip3 install feedparser
           git config --local user.email "liyupeng341@163.com"
           git config --local user.name "flaging-bot"

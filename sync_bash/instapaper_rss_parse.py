@@ -29,7 +29,7 @@ def main():
     else:
       data=resp.read().decode('utf-8')
       soup = BeautifulSoup(data,'lxml')
-      file.writelines("\n\n## [" +str(soup.title.get_text())+"]("+url+")")
+      file.writelines("\n\n### [" +str(soup.title.get_text())+"]("+url+")")
 
   file.close()
 

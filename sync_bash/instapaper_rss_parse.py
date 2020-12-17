@@ -49,7 +49,7 @@ def parse_url(str1,file):
       else:
         data=resp.read().decode('utf-8','ignore')
         soup = BeautifulSoup(data,'lxml')
-        file.writelines("\n\n### [" +str(soup.title.get_text())+"]("+url+")")
+        file.writelines("\n\n### [" +str(soup.title)+"]("+url+")")
 
 
 def main():

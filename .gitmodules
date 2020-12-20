@@ -1,0 +1,3 @@
+[submodule "feedreport/FeedReport"]
+	path = feedreport/FeedReport
+	url = https://github.com/flaging/FeedReport.git

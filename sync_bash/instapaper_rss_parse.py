@@ -7,52 +7,46 @@ import time
 import sqlite3
 def parse_url(str1,file):
   data = feedparser.parse(str1)
-  if os.path.exists('test.db'):
-    conn = sqlite3.connect('test.db')
+  if os.path.exists('.database/bookmarks.sqlite3'):
+    conn = sqlite3.connect('.database/bookmarks.sqlite3')
     cur = conn.cursor()
   else:
-    conn = sqlite3.connect('test.db')
+    conn = sqlite3.connect('.database/bookmarks.sqlite3')
     cur = conn.cursor()
-    sql_text_1 = '''CREATE TABLE scores 
-              ( ID NUMBER,
-                URL TEXT);''' 
+    sql_text_1 = '''CREATE TABLE bookmark 
+              ( ID INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
+                COUNT_NUM INTERGER,
+                URL TEXT,
+                RAW_DATA TEXT,
+                Timestamp TIMESTAMP DEFAULT CURRENT_TIMESTAMP);'''
     cur.execute(sql_text_1)
   
   for entry in data.entries:
     url = entry.link
-    exe2= "SELECT * FROM scores WHERE URL == " + '"'+url+'"'
-    print(exe2)
-    result = cur.execute(exe2)
-    count = 0
-    for i in result:
-      print(i)
-      count = count + 1
-    # exe3 = "select * from scores"
-    # result1 = cur.execute(exe3)
-    # for i in result1:
-    #   print(i)
-    print(count)
-    if count == 0:
-      exe1 = 'INSERT INTO scores VALUES(1,"'+url+'")'
-      print(exe1)
-      cur.execute(exe1)
-      conn.commit()
+    exe2= "SELECT * FROM bookmark WHERE URL == " + '"'+url+'"'
+    result_cursor = cur.execute(exe2)
+    result = result_cursor.fetchall()
+    if len(result) == 0:
       headers = {'User-Agent':'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:23.0) Gecko/20100101 Firefox/23.0'}
       req=urllib.request.Request(url, headers=headers)
       try:
         resp=urllib.request.urlopen(req)
-      except (urllib.error.HTTPError,e):
-        print('Error code:', e.code)
-      except (urlllib.error.URLError, e):
+      except :
         print( 'We failed to reache a server.')
-        print('Reason:', e.reason)
       else:
-        data=resp.read().decode('utf-8','ignore')
-        soup = BeautifulSoup(data,'lxml')
+        raw_soup=resp.read().decode('utf-8','ignore')
+        soup = BeautifulSoup(raw_soup,'lxml')
         try:
-          file.writelines("\n\n### [" +str(soup.title.get_text())+"]("+url+")")
+          article_title = str("\n\n### [" +str(soup.title.get_text())+"]("+url+")")
         except:
-          file.writelines("\n\n### [" +str(soup.title)+"]("+url+")")
+          article_title = str("\n\n### [" +str(soup.title)+"]("+url+")")
+        file.writelines(article_title)
+      exe1 = 'INSERT INTO bookmark VALUES(null,1,"'+url+'","'+article_title+'", (strftime("%Y-%m-%d %H:%M:%f","now", "localtime")))'
+      print(exe1)
+      cur.execute(exe1)
+      conn.commit()
+  conn.close()
+      
 
 
 def main():

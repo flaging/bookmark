@@ -45,7 +45,7 @@ jobs:
           git pull --rebase
       - name: git update
         run: |
-          python3 sync_bash/instapaper_rss_parse.py
+          python3 sync_basb/update_bookmarks.py
           git add .
       - name: update submodules
         run: |

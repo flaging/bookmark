@@ -45,7 +45,7 @@ jobs:
           git pull --rebase
       - name: git update
         run: |
-          python3 sync_basb/update_bookmarks.py
+          python3 bookmarks/update_bookmarks.py
           git add .
       - name: update submodules
         run: |

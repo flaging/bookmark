@@ -47,7 +47,7 @@ jobs:
         run: |
           python3 sync_bash/instapaper_rss_parse.py
           git add .
-          git submodule for each git pull
+          git submodule update --recursive --remote
       - name: git commit
         run:
           git diff-index --quiet HEAD || git commit -m "update instapaper once per hour by flaging-bot action"

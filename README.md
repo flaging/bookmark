@@ -8,6 +8,4 @@
 
 ## [订阅](feed/README.md)
 
-## [旧版目录](./blog/old_read_me.md)
-
 ## [简历](RESUME.md)

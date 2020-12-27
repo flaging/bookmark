@@ -1,6 +1,6 @@
 # 目录
 
-## [博客](./2020/old_read_me.md)
+## [博客](./blog/old_read_me.md)
 
 [vim实用教程](./Content/vim.md)
 

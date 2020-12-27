@@ -33,15 +33,24 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: '3.8'
-      - name: git clone
+      - name: config env
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
+      - name： git pull
+        run: |
           git config --local user.email "liyupeng341@163.com"
           git config --local user.name "flaging-bot"
           git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git pull --rebase
+      - name: git update
+        run: |
           python3 sync_bash/instapaper_rss_parse.py
           git add .
+          git submodule for each git pull
+      - name: git commit
+        run:
           git diff-index --quiet HEAD || git commit -m "update instapaper once per hour by flaging-bot action"
+      - name: git push
+        run:
           git push

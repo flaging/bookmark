@@ -41,7 +41,7 @@ def parse_url(str1,file):
         except:
           article_title = str("### [" +str(soup.title)+"]("+url+")")
         file.writelines('\n\n'+article_title)
-      exe1 = 'INSERT INTO bookmark VALUES(null,1,"'+url+'","'+article_title+'", (strftime("%Y-%m-%d %H:%M:%f","now", "localtime")))'
+      exe1 = 'INSERT INTO bookmark VALUES(null,1,"'+url+'",\''+article_title+'\', (strftime("%Y-%m-%d %H:%M:%f","now", "localtime")))'
       print(exe1)
       cur.execute(exe1)
       conn.commit()

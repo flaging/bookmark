@@ -37,11 +37,11 @@ def parse_url(str1,file):
         raw_soup=resp.read().decode('utf-8','ignore')
         soup = BeautifulSoup(raw_soup,'lxml')
         try:
-          article_title = str("\n\n### [" +str(soup.title.get_text())+"]("+url+")")
+          article_title = str("### [" +str(soup.title.get_text())+"]("+url+")")
         except:
-          article_title = str("\n\n### [" +str(soup.title)+"]("+url+")")
-        file.writelines(article_title)
-      exe1 = 'INSERT INTO bookmark VALUES(null,1,"'+url+'","'+article_title+'", (strftime("%Y-%m-%d %H:%M:%f","now", "localtime")))'
+          article_title = str("### [" +str(soup.title)+"]("+url+")")
+        file.writelines('\n\n'+article_title)
+      exe1 = 'INSERT INTO bookmark VALUES(null,1,"'+url+'","'+article_title.replace('"',' ')+'", (strftime("%Y-%m-%d %H:%M:%f","now", "localtime")))'
       print(exe1)
       cur.execute(exe1)
       conn.commit()

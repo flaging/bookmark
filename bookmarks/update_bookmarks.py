@@ -62,7 +62,7 @@ def main():
   file.close()
   if not is_exists:
     readme = open("bookmarks/bookmark.md","a")
-    readme.writelines("\n\n["+str(localtime.tm_year)+"-"+str(localtime.tm_mon)+"-"+str(localtime.tm_mday)+"]("+file_name[10:-1]+")")
+    readme.writelines("\n\n["+str(localtime.tm_year)+"-"+str(localtime.tm_mon)+"-"+str(localtime.tm_mday)+"]("+file_name[10:0]+")")
     readme.close()
   
 if __name__ == "__main__":

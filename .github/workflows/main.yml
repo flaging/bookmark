@@ -59,6 +59,7 @@ jobs:
           fi
           cp README_O.md README.md
           cat 'feed/'$(date "+%Y/%-m-%-d.md") >> README.md
+          git add .
       - name: git commit
         run:
           git diff-index --quiet HEAD || git commit -m "update instapaper once per hour by flaging-bot action"

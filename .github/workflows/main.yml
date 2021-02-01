@@ -54,14 +54,15 @@ jobs:
           git add .
       - name: update readme
         run: |
-          if [ -f 'README.md'];then
+          if [ -f 'README.md' ];then
             rm README.md
           fi
           cp README_O.md README.md
           if [ -f 'bookmarks/'$(date "+%Y/%-m-%-d.md") ];then
-            cat '\n\n## BOOKMARKS\n\n' >> README.md
+            echo '\n\n## BOOKMARKS\n\n' >> README.md
+            cat 'bookmarks/'$(date "+%Y/%-m-%-d.md") >> README.md
           if [ -f 'feed/'$(date "+%Y/%-m-%-d.md") ];then
-            cat '\n\n## FEED\n\n' >> README.md
+            echo '\n\n## FEED\n\n' >> README.md
             cat 'feed/'$(date "+%Y/%-m-%-d.md") >> README.md
           fi
           git add .

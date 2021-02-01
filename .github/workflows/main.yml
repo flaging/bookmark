@@ -59,11 +59,11 @@ jobs:
           fi
           cp README_O.md README.md
           if [ -f 'bookmarks/'$(date "+%Y/%-m-%-d.md") ];then
-            echo '\n\n## BOOKMARKS\n\n' >> README.md
+            echo -e '\n\n## BOOKMARKS\n\n' >> README.md
             cat 'bookmarks/'$(date "+%Y/%-m-%-d.md") >> README.md
           fi
           if [ -f 'feed/'$(date "+%Y/%-m-%-d.md") ];then
-            echo '\n\n## FEED\n\n' >> README.md
+            echo -e '\n\n## FEED\n\n' >> README.md
             cat 'feed/'$(date "+%Y/%-m-%-d.md") >> README.md
           fi
           git add .

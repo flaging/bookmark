@@ -32,6 +32,8 @@
 
 ### [跟着例子学习 PyTorch · Pytorch 中文文档](https://pytorch.apachecn.org/docs/0.3/pytorch_with_examples.html)
 
+### [devtoolset-7-7.0-8.el7.x86_64.rpm CentOS 7 Download](https://centos.pkgs.org/7/centos-sclo-rh-testing-x86_64/devtoolset-7-7.0-8.el7.x86_64.rpm.html)
+
 ## FEED
 
 

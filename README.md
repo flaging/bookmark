@@ -34,6 +34,8 @@
 
 ### [devtoolset-7-7.0-8.el7.x86_64.rpm CentOS 7 Download](https://centos.pkgs.org/7/centos-sclo-rh-testing-x86_64/devtoolset-7-7.0-8.el7.x86_64.rpm.html)
 
+### [CentOS/RHEL 开发环境之 devtoolset_zzhongcy的专栏-CSDN博客_devtoolset](https://blog.csdn.net/zzhongcy/article/details/89950976)
+
 ## FEED
 
 

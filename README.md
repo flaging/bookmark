@@ -36,6 +36,10 @@
 
 ### [CentOS/RHEL 开发环境之 devtoolset_zzhongcy的专栏-CSDN博客_devtoolset](https://blog.csdn.net/zzhongcy/article/details/89950976)
 
+### [How to Install Eclipse for Java Programming (on Windows, Mac OS and Ubuntu)](https://www3.ntu.edu.sg/home/ehchua/programming/howto/eclipsejava_howto.html)
+
+### [How To Install Eclipse IDE on Ubuntu 18.04 | linuxbees](https://linuxbees.com/post/how-to-install-eclipse-ide-on-ubuntu-18.04/)
+
 ## FEED
 
 

@@ -62,6 +62,8 @@
 
 ### [在docker中执行gitlab-runner - SegmentFault 思否](https://segmentfault.com/a/1190000012279248)
 
+### [5. GitLab CI流水线配置文件.gitlab-ci.yml详解 — hellogit 1.0 documentation](https://meigit.readthedocs.io/en/latest/gitlab_ci_.gitlab-ci.yml_detail.html)
+
 ## FEED
 
 

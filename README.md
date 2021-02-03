@@ -30,6 +30,14 @@
 
 # 2021-2-3
 
+### [RDMA技术详解（一）：RDMA概述 - 知乎](https://zhuanlan.zhihu.com/p/55142557)
+
+### [c - O_DIRECT undeclared, Eclipse CDT, Ubuntu 20.04 - Stack Overflow](https://stackoverflow.com/questions/61456630/o-direct-undeclared-eclipse-cdt-ubuntu-20-04)
+
+### [I/O read()/write()/pread()/pwrite()/fread()/fwrite_The Coding World-CSDN博客](https://blog.csdn.net/chinabhlt/article/details/49890547)
+
+### [carltheperson](https://carltheperson.com/posts/10-things-linux)
+
 ## FEED
 
 

@@ -60,6 +60,8 @@
 
 ### [使用gitlab自动化进行CI/CD](https://roombox.xdf.cn/blog/gitlab-cicd/)
 
+### [在docker中执行gitlab-runner - SegmentFault 思否](https://segmentfault.com/a/1190000012279248)
+
 ## FEED
 
 

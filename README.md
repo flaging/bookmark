@@ -56,6 +56,10 @@
 
 ### [Pytorch autograd,backward详解 - 知乎](https://zhuanlan.zhihu.com/p/83172023)
 
+### [Install GitLab Runner on macOS | GitLab](https://docs.gitlab.com/runner/install/osx.html)
+
+### [使用gitlab自动化进行CI/CD](https://roombox.xdf.cn/blog/gitlab-cicd/)
+
 ## FEED
 
 

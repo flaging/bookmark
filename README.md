@@ -46,6 +46,16 @@
 
 ### [c++ - What are the advantages of pwrite and pread over fwrite and fread? - Stack Overflow](https://stackoverflow.com/questions/7592822/what-are-the-advantages-of-pwrite-and-pread-over-fwrite-and-fread)
 
+### [Python type() 函数 | 菜鸟教程](http://www.runoob.com/python/python-func-type.html)
+
+### [readv(2) - Linux manual page](https://man7.org/linux/man-pages/man2/readv.2.html)
+
+### [c++ - Pybind11 - Where to put PYBIND11_MODULE - Stack Overflow](https://stackoverflow.com/questions/50028830/pybind11-where-to-put-pybind11-module)
+
+### [Py 和 C++ 两种语言相互融合#How-to#随手记#pybind11 方案 — 之I - 知乎](https://zhuanlan.zhihu.com/p/38274928)
+
+### [Pytorch autograd,backward详解 - 知乎](https://zhuanlan.zhihu.com/p/83172023)
+
 ## FEED
 
 

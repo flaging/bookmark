@@ -38,6 +38,14 @@
 
 ### [carltheperson](https://carltheperson.com/posts/10-things-linux)
 
+### [linux - Build .so file from .c file using gcc command line - Stack Overflow](https://stackoverflow.com/questions/14884126/build-so-file-from-c-file-using-gcc-command-line)
+
+### [Pytorch的backward()相关理解_douhaoexia的博客-CSDN博客](https://blog.csdn.net/douhaoexia/article/details/78821428)
+
+### [torch.nn.functional — PyTorch 1.7.0 documentation](https://pytorch.org/docs/stable/nn.functional.html)
+
+### [c++ - What are the advantages of pwrite and pread over fwrite and fread? - Stack Overflow](https://stackoverflow.com/questions/7592822/what-are-the-advantages-of-pwrite-and-pread-over-fwrite-and-fread)
+
 ## FEED
 
 

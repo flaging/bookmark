@@ -34,6 +34,8 @@
 
 ### [Four books professional developers should read (and a few you don't need to) | notes.eatonphil.com](https://notes.eatonphil.com/books-developers-should-read.html?continueFlag=2ef62708aed11cf978f9fdf0c3ab0998)
 
+### [GitHub - liu-jianhao/Cpp-Design-Patterns: C++设计模式](https://github.com/liu-jianhao/Cpp-Design-Patterns)
+
 ## FEED
 
 

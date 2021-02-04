@@ -36,6 +36,8 @@
 
 ### [GitHub - liu-jianhao/Cpp-Design-Patterns: C++设计模式](https://github.com/liu-jianhao/Cpp-Design-Patterns)
 
+### [Treap——堆和二叉树的完美结合，性价比极值的搜索树](https://juejin.cn/post/6923910333694214152)
+
 ## FEED
 
 

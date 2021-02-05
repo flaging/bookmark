@@ -30,6 +30,8 @@
 
 # 2021-2-5
 
+### [Macos下制作CentOS 7 USB启动盘 | Recording](https://www.jibing57.com/2019/05/01/way-to-make-centos7-bootable-usb-on-macos/)
+
 ## FEED
 
 

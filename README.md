@@ -28,20 +28,17 @@
 
 
 
-# 2021-2-6
+## 2021-2-6
 
 ### [GitHub - NiuTrans/CNSurvey](https://github.com/NiuTrans/CNSurvey)
 
 ### [The effect of switching to TCMalloc on RocksDB memory use](https://blog.cloudflare.com/the-effect-of-switching-to-tcmalloc-on-rocksdb-memory-use/)
 
-### [
-](http://mp.weixin.qq.com/s?__biz=MjM5NzMyMjAwMA==&mid=2651492790&idx=1&sn=5a9117a15ee8c6004022e93922553795&chksm=bd25fdc98a5274dfd0f690fdff89a95f4678cf8ab1063c881fc9d7922dd1952335786484469d#rd)
+### [wenxin](http://mp.weixin.qq.com/s?__biz=MjM5NzMyMjAwMA==&mid=2651492790&idx=1&sn=5a9117a15ee8c6004022e93922553795&chksm=bd25fdc98a5274dfd0f690fdff89a95f4678cf8ab1063c881fc9d7922dd1952335786484469d#rd)
 
 ### [GitHub - fastai/timmdocs: Documentation for Ross Wightman's timm image model library](https://github.com/fastai/timmdocs)
 
-### [
-Google AI Blog: Machine Learning for Computer Architecture
-](http://ai.googleblog.com/2021/02/machine-learning-for-computer.html)
+### [Google AI Blog: Machine Learning for Computer Architecture](http://ai.googleblog.com/2021/02/machine-learning-for-computer.html)
 
 ### [Linux Terminal: The Ultimate Cheat Sheet - Part 2 - DEV Community](https://dev.to/mauro_codes/linux-terminal-the-ultimate-cheat-sheet-part-2-11ge)
 
@@ -60,6 +57,15 @@ Google AI Blog: Machine Learning for Computer Architecture
 ### [在 Kubernetes 上扩展 TensorFlow 模型-InfoQ](https://www.infoq.cn/article/6EeB87lSyvk7yMuzBKYh)
 
 ### [GitHub 标星 167k！你要的优质书籍这都有，还开源！ - SegmentFault 思否](https://segmentfault.com/a/1190000039159018)
+
+
+### [斯坦福新书《决策算法》，694页PDF免费下载 | 机器之心](https://www.jiqizhixin.com/articles/2021-02-03-5)
+
+### [1.9万亿参数量，快手落地业界首个万亿参数推荐精排模型 | 机器之心](https://www.jiqizhixin.com/articles/2021-02-03-6)
+
+### [美团2020技术年货，1300+页电子书 - SegmentFault 思否](https://segmentfault.com/a/1190000039173710)
+
+### [提升编码水平，这本Python软件工程开源书籍为研究人员量身打造 | 机器之心](https://www.jiqizhixin.com/articles/2021-02-05)
 
 ## FEED
 

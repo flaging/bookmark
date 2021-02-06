@@ -39,6 +39,10 @@
 
 ### [GitHub - fastai/timmdocs: Documentation for Ross Wightman's timm image model library](https://github.com/fastai/timmdocs)
 
+### [
+Google AI Blog: Machine Learning for Computer Architecture
+](http://ai.googleblog.com/2021/02/machine-learning-for-computer.html)
+
 ## FEED
 
 

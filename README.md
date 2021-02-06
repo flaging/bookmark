@@ -47,6 +47,8 @@ Google AI Blog: Machine Learning for Computer Architecture
 
 ### [Prep For Interviews Like a PRO! - DEV Community](https://dev.to/deyrupak/prep-for-interviews-like-a-pro-gko)
 
+### [分享|7 个 Bash 教程，提高你的命令行技能（2021 版）](https://linux.cn/article-13090-1.html)
+
 ## FEED
 
 

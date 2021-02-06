@@ -71,6 +71,10 @@
 
 ### [百度出席人工智能顶会AAAI 2021，24篇优质论文被收录 | 机器之心](https://www.jiqizhixin.com/articles/2021-02-03-4)
 
+### [让PyTorch训练速度更快，你需要掌握这17种方法 | 机器之心](https://www.jiqizhixin.com/articles/2021-01-17-2)
+
+### [步入2021，大热的GNN会在哪些应用领域大展拳脚呢？ | 机器之心](https://www.jiqizhixin.com/articles/2021-01-24-2)
+
 ## FEED
 
 

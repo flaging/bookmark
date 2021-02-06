@@ -75,6 +75,8 @@
 
 ### [步入2021，大热的GNN会在哪些应用领域大展拳脚呢？ | 机器之心](https://www.jiqizhixin.com/articles/2021-01-24-2)
 
+### [AWS Cheat Sheets - Tutorials Dojo](https://tutorialsdojo.com/aws-cheat-sheets/)
+
 ## FEED
 
 

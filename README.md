@@ -53,6 +53,14 @@ Google AI Blog: Machine Learning for Computer Architecture
 
 ### [基于 CPU+DSP 异构计算平台优化离线 ASR 性能和功耗](https://juejin.cn/post/6925288458143399949)
 
+### [印象识堂](https://www.yinxiang.com/everhub/note/06858ce3-0c7f-4593-a6cb-d944b8a9ffaf)
+
+### [印象识堂](https://www.yinxiang.com/everhub/note/647de2ae-76a3-4622-8caf-5da5980f80f5)
+
+### [在 Kubernetes 上扩展 TensorFlow 模型-InfoQ](https://www.infoq.cn/article/6EeB87lSyvk7yMuzBKYh)
+
+### [GitHub 标星 167k！你要的优质书籍这都有，还开源！ - SegmentFault 思否](https://segmentfault.com/a/1190000039159018)
+
 ## FEED
 
 

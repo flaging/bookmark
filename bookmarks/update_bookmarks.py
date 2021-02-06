@@ -57,7 +57,7 @@ def main():
   is_exists = os.path.exists(file_name)
   file=open(file_name,"a")
   if not is_exists:
-    file.write("\n# "+str(localtime.tm_year)+"-"+str(localtime.tm_mon)+"-"+str(localtime.tm_mday))
+    file.write("\n## "+str(localtime.tm_year)+"-"+str(localtime.tm_mon)+"-"+str(localtime.tm_mday))
   url_list = open('bookmarks/list.txt','r').read().splitlines()
   for url in url_list:
     parse_url(url, file)

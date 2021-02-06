@@ -37,6 +37,8 @@
 ### [
 ](http://mp.weixin.qq.com/s?__biz=MjM5NzMyMjAwMA==&mid=2651492790&idx=1&sn=5a9117a15ee8c6004022e93922553795&chksm=bd25fdc98a5274dfd0f690fdff89a95f4678cf8ab1063c881fc9d7922dd1952335786484469d#rd)
 
+### [GitHub - fastai/timmdocs: Documentation for Ross Wightman's timm image model library](https://github.com/fastai/timmdocs)
+
 ## FEED
 
 

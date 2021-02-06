@@ -43,6 +43,10 @@
 Google AI Blog: Machine Learning for Computer Architecture
 ](http://ai.googleblog.com/2021/02/machine-learning-for-computer.html)
 
+### [Linux Terminal: The Ultimate Cheat Sheet - Part 2 - DEV Community](https://dev.to/mauro_codes/linux-terminal-the-ultimate-cheat-sheet-part-2-11ge)
+
+### [Prep For Interviews Like a PRO! - DEV Community](https://dev.to/deyrupak/prep-for-interviews-like-a-pro-gko)
+
 ## FEED
 
 

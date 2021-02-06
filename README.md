@@ -67,11 +67,15 @@
 
 ### [提升编码水平，这本Python软件工程开源书籍为研究人员量身打造 | 机器之心](https://www.jiqizhixin.com/articles/2021-02-05)
 
+### [南大周志华团队开源深度森林软件包DF21：训练效率高、超参数少，普通设备就能跑 | 机器之心](https://www.jiqizhixin.com/articles/2021-02-01-3)
+
+### [百度出席人工智能顶会AAAI 2021，24篇优质论文被收录 | 机器之心](https://www.jiqizhixin.com/articles/2021-02-03-4)
+
 ## FEED
 
 
 
-## 2021-2-6
+# 2021-2-6
 
 ## [喜报！百度获2020年度信创工委会“卓越贡献成员单位”荣誉称号](https://www.jiqizhixin.com/articles/2021-02-05-11)
 

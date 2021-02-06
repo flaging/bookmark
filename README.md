@@ -51,6 +51,8 @@ Google AI Blog: Machine Learning for Computer Architecture
 
 ### [GitHub - d2l-ai/d2l-zh-pytorch-slides: Pytorch版代码幻灯片](https://github.com/d2l-ai/d2l-zh-pytorch-slides)
 
+### [基于 CPU+DSP 异构计算平台优化离线 ASR 性能和功耗](https://juejin.cn/post/6925288458143399949)
+
 ## FEED
 
 

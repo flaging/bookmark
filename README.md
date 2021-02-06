@@ -49,6 +49,8 @@ Google AI Blog: Machine Learning for Computer Architecture
 
 ### [分享|7 个 Bash 教程，提高你的命令行技能（2021 版）](https://linux.cn/article-13090-1.html)
 
+### [GitHub - d2l-ai/d2l-zh-pytorch-slides: Pytorch版代码幻灯片](https://github.com/d2l-ai/d2l-zh-pytorch-slides)
+
 ## FEED
 
 

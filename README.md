@@ -77,6 +77,10 @@
 
 ### [AWS Cheat Sheets - Tutorials Dojo](https://tutorialsdojo.com/aws-cheat-sheets/)
 
+### [GML Newsletter: Interpolation and Extrapolation of Graph Neural Networks - Graph Machine Learning](https://graphml.substack.com/p/gml-newsletter-interpolation-and)
+
+### [Writing high performance F# code](https://bartoszsypytkowski.com/writing-high-performance-f-code/)
+
 ## FEED
 
 

@@ -30,6 +30,8 @@
 
 ## 2021-2-7
 
+### [examples/applications/popart/bert at master · graphcore/examples · GitHub](https://github.com/graphcore/examples/tree/master/applications/popart/bert)
+
 ## FEED
 
 

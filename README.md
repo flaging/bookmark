@@ -32,6 +32,8 @@
 
 ### [examples/applications/popart/bert at master · graphcore/examples · GitHub](https://github.com/graphcore/examples/tree/master/applications/popart/bert)
 
+### [examples/applications/tensorflow/dynamic_sparsity/language_modelling at master · graphcore/examples · GitHub](https://github.com/graphcore/examples/tree/master/applications/tensorflow/dynamic_sparsity/language_modelling)
+
 ## FEED
 
 

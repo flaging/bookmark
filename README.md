@@ -34,6 +34,8 @@
 
 ### [examples/applications/tensorflow/dynamic_sparsity/language_modelling at master · graphcore/examples · GitHub](https://github.com/graphcore/examples/tree/master/applications/tensorflow/dynamic_sparsity/language_modelling)
 
+### [rpm升级包冲突：conflicts with file_SundayO的博客-CSDN博客](https://blog.csdn.net/SundayO/article/details/102499403)
+
 ## FEED
 
 

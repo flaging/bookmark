@@ -36,6 +36,8 @@
 
 ### [rpm升级包冲突：conflicts with file_SundayO的博客-CSDN博客](https://blog.csdn.net/SundayO/article/details/102499403)
 
+### [rpm降级版本安装 - 简书](https://www.jianshu.com/p/47be8134b18d)
+
 ## FEED
 
 

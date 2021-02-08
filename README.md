@@ -40,6 +40,8 @@
 
 ### [Pytorch distributed RuntimeError: Address already in use_Orientliu96的博客-CSDN博客](https://blog.csdn.net/Orientliu96/article/details/104597178)
 
+### [如何使用yum来下载RPM包而不进行安装_werm520的专栏-CSDN博客](https://blog.csdn.net/werm520/article/details/49997255)
+
 ## FEED
 
 

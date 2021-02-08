@@ -42,6 +42,8 @@
 
 ### [如何使用yum来下载RPM包而不进行安装_werm520的专栏-CSDN博客](https://blog.csdn.net/werm520/article/details/49997255)
 
+### [推荐系统中的Embedding应用](https://juejin.cn/post/6926537876742078471)
+
 ## FEED
 
 

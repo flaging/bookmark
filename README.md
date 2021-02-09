@@ -32,6 +32,12 @@
 
 ### [Linux kernel release 5.x <http://kernel.org/> — The Linux Kernel  documentation](https://www.kernel.org/doc/html/latest/admin-guide/README.html)
 
+### [Top 25 C Programming Interview Questions](https://usemynotes.com/c-programming-interview-questions/)
+
+### [How to automatically set up a development machine with Ansible](https://stribny.name/blog/ansible-dev/)
+
+### [Gradient Ascent #10 - Gradient Ascent](https://albertazout.substack.com/p/gradient-ascent-10)
+
 ## FEED
 
 

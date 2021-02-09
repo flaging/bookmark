@@ -30,6 +30,8 @@
 
 ## 2021-2-9
 
+### [Linux kernel release 5.x <http://kernel.org/> — The Linux Kernel  documentation](https://www.kernel.org/doc/html/latest/admin-guide/README.html)
+
 ## FEED
 
 

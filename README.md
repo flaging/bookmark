@@ -44,6 +44,8 @@
 
 ### [Join us at TensorFlow Everywhere — The TensorFlow Blog](https://blog.tensorflow.org/2021/02/join-us-at-tensorflow-everywhere.html)
 
+### [GitHub - alteryx/evalml: EvalML is an AutoML library written in python.](https://github.com/alteryx/evalml)
+
 ## FEED
 
 

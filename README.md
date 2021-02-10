@@ -42,6 +42,8 @@
 
 ### [抱抱脸系列-多类别文本分类](https://juejin.cn/post/6927106106716078093)
 
+### [Join us at TensorFlow Everywhere — The TensorFlow Blog](https://blog.tensorflow.org/2021/02/join-us-at-tensorflow-everywhere.html)
+
 ## FEED
 
 

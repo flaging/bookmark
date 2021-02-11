@@ -40,6 +40,8 @@
 
 ### [推荐几个不错的CUDA入门教程（非广告） - 知乎](https://zhuanlan.zhihu.com/p/346910129)
 
+### [GitHub - leerumor/contrastive_learning_codes: A list of Contrastive Learning Papers&Codes. Unsupervised: MoCo/SimCLR/SwAV/BYOL/SimSiam](https://github.com/leerumor/contrastive_learning_codes)
+
 ## FEED
 
 

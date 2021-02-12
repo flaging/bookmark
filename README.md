@@ -32,6 +32,8 @@
 
 ### [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/)
 
+### [Kubernetes Failure Stories](https://k8s.af/?continueFlag=6dc368e1c722c499d95cd877f30df965)
+
 ## FEED
 
 

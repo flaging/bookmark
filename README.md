@@ -38,6 +38,8 @@
 
 ### [GitHub - csc-training/hpc-python: Python in High Performance Computing](https://github.com/csc-training/hpc-python)
 
+### [GitHub - kabartay/OpenUnivCourses: FREE university courses in ML from Top Universities in CS](https://github.com/kabartay/OpenUnivCourses)
+
 ## FEED
 
 

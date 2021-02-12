@@ -32,6 +32,8 @@
 
 ### [GitHub Actions to guard your workflow by Evrone](https://evrone.com/github-actions)
 
+### [GitHub - jatinchowdhury18/RTNeural: Real-time neural network inferencing](https://github.com/jatinchowdhury18/RTNeural)
+
 ## FEED
 
 

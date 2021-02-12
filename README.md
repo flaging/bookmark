@@ -34,6 +34,10 @@
 
 ### [GitHub - jatinchowdhury18/RTNeural: Real-time neural network inferencing](https://github.com/jatinchowdhury18/RTNeural)
 
+### [GitHub - Seagate/cortx: CORTX Community Object Storage is 100% open source object storage uniquely optimized for mass capacity storage devices.](https://github.com/Seagate/cortx)
+
+### [GitHub - csc-training/hpc-python: Python in High Performance Computing](https://github.com/csc-training/hpc-python)
+
 ## FEED
 
 

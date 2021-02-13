@@ -44,6 +44,10 @@
 
 ### [GitHub - SethHWeidman/DLFS_code: Code for the book Deep Learning From Scratch, from O'Reilly September 2019](https://github.com/SethHWeidman/DLFS_code)
 
+### [GitHub - neuralmagic/deepsparse: CPU inference engine that delivers unprecedented performance for sparse models](https://github.com/neuralmagic/deepsparse)
+
+### [GitHub - rigtorp/awesome-modern-cpp: A collection of resources on modern C++](https://github.com/rigtorp/awesome-modern-cpp)
+
 ## FEED
 
 

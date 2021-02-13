@@ -26,8 +26,6 @@
 
 ## BOOKMARKS
 
-
-
 ## 2021-2-13
 
 ### [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/)

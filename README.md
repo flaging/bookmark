@@ -42,6 +42,8 @@
 
 ### [Datasets for Machine Learning and Deep Learning](https://sebastianraschka.com/blog/2021/ml-dl-datasets.html)
 
+### [GitHub - SethHWeidman/DLFS_code: Code for the book Deep Learning From Scratch, from O'Reilly September 2019](https://github.com/SethHWeidman/DLFS_code)
+
 ## FEED
 
 

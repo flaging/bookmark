@@ -40,6 +40,8 @@
 
 ### [GitHub - SystemsApproach/book: Computer Networks: A Systems Approach -- Textbook](https://github.com/SystemsApproach/book)
 
+### [Datasets for Machine Learning and Deep Learning](https://sebastianraschka.com/blog/2021/ml-dl-datasets.html)
+
 ## FEED
 
 

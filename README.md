@@ -48,6 +48,10 @@
 
 ### [GitHub - rigtorp/awesome-modern-cpp: A collection of resources on modern C++](https://github.com/rigtorp/awesome-modern-cpp)
 
+### [SteveY对Amazon和Google平台的吐槽 | 酷 壳 - CoolShell](https://coolshell.cn/articles/5701.html)
+
+### [Stevey's Google Platforms Rant · GitHub](https://gist.github.com/chitchcock/1281611)
+
 ## FEED
 
 

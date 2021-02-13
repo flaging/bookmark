@@ -54,6 +54,8 @@
 
 ### [服务注册发现与调度 - 知乎](https://zhuanlan.zhihu.com/p/25650431)
 
+### [GitHub - SpaceVim/SpaceVim: A community-driven modular vim distribution - The ultimate vim configuration](https://github.com/SpaceVim/SpaceVim)
+
 ## FEED
 
 

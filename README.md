@@ -52,6 +52,8 @@
 
 ### [Stevey's Google Platforms Rant · GitHub](https://gist.github.com/chitchcock/1281611)
 
+### [服务注册发现与调度 - 知乎](https://zhuanlan.zhihu.com/p/25650431)
+
 ## FEED
 
 

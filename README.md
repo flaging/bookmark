@@ -32,6 +32,9 @@
 
 ### [GitHub - RITCHIEHuang/DeepRL_Algorithms: DeepRL algorithms implementation easy for understanding and reading with Pytorch and Tensorflow 2(DQN, REINFORCE, VPG, A2C, TRPO, PPO, DDPG, TD3, SAC)](https://github.com/RITCHIEHuang/DeepRL_Algorithms)
 
+### [
+](http://mp.weixin.qq.com/s?__biz=MzAxMzA2MDYxMw==&mid=2651585216&idx=2&sn=4b66ee92d427eb51522c685fd53855fe&chksm=805705aab7208cbcc7e9ef48c7ff722a81771313da77afcd4975821ec6f55cb67818cbaa8e25#rd)
+
 ## FEED
 
 

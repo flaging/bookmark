@@ -38,6 +38,8 @@
 
 ### [2020年，那些「引爆」了ML社区的热门论文、库和基准 | 机器之心](https://www.jiqizhixin.com/articles/2021-02-15-2)
 
+### [GitHub - tssovi/grokking-the-object-oriented-design-interview](https://github.com/tssovi/grokking-the-object-oriented-design-interview)
+
 ## FEED
 
 

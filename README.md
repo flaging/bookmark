@@ -42,6 +42,8 @@
 
 ### [GitHub - etcd-io/bbolt: An embedded key/value database for Go.](https://github.com/etcd-io/bbolt)
 
+### [GitHub - activeloopai/Hub: Fastest unstructured dataset management for TensorFlow/PyTorch. Stream data real-time & version-control it. http://activeloop.ai](https://github.com/activeloopai/Hub)
+
 ## FEED
 
 

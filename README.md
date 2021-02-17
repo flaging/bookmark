@@ -30,6 +30,10 @@
 
 ## 2021-2-17
 
+### [An Improved Thread with C++20 - ModernesCpp.com](http://modernescpp.com/index.php/an-improved-thread-with-c-20)
+
+### [How C++20 Changes the Way We Write Code - YouTube](https://www.youtube.com/watch?v=D81yl6_kHEM)
+
 ## FEED
 
 

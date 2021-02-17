@@ -44,6 +44,8 @@
 
 ### [GitHub - activeloopai/Hub: Fastest unstructured dataset management for TensorFlow/PyTorch. Stream data real-time & version-control it. http://activeloop.ai](https://github.com/activeloopai/Hub)
 
+### [Why I Quit Google to Work for Myself · mtlynch.io](https://mtlynch.io/why-i-quit-google/)
+
 ## FEED
 
 

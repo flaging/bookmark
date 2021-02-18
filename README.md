@@ -36,6 +36,8 @@
 
 ### [Redis 是单线程凭什么能支撑高并发？ - 知乎](https://zhuanlan.zhihu.com/p/343253559)
 
+### [GitHub - A-suozhang/awesome-quantization-and-fixed-point-training: Neural Network Quantization & Low-Bit Fixed Point Training For Hardware-Friendly Algorithm Design](https://github.com/A-suozhang/awesome-quantization-and-fixed-point-training)
+
 ## FEED
 
 

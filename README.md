@@ -33,6 +33,8 @@
 ### [
 ](http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649756612&idx=1&sn=8e934d76a46504b8e30d89acb2ed464b&chksm=becc80bf89bb09a9d7f4e2671beff4b8694da2d8b93311c79adbca7e2c15f63282cd33b5e652#rd)
 
+### [BERT模型入门系列（三）:Self-Attention详解](https://juejin.cn/post/6930528321516077063)
+
 ## FEED
 
 

@@ -42,6 +42,8 @@
 
 ### [A Survey on Visual Transformer及引文理解 - 知乎](https://zhuanlan.zhihu.com/p/347774473)
 
+### [Start Using Prettier The Right Way - DEV Community](https://dev.to/akinghill/start-using-prettier-the-right-way-59kg)
+
 ## FEED
 
 

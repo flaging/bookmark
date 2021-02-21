@@ -38,6 +38,8 @@
 
 ### [Install Docker on Windows (WSL) without Docker Desktop - DEV Community](https://dev.to/bowmanjd/install-docker-on-windows-wsl-without-docker-desktop-34m9)
 
+### [Learn About Transformers: A Recipe - Elvis's Blog](https://elvissaravia.substack.com/p/learn-about-transformers-a-recipe)
+
 ## FEED
 
 

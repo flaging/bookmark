@@ -40,6 +40,8 @@
 
 ### [Learn About Transformers: A Recipe - Elvis's Blog](https://elvissaravia.substack.com/p/learn-about-transformers-a-recipe)
 
+### [A Survey on Visual Transformer及引文理解 - 知乎](https://zhuanlan.zhihu.com/p/347774473)
+
 ## FEED
 
 

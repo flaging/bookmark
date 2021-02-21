@@ -44,6 +44,8 @@
 
 ### [Start Using Prettier The Right Way - DEV Community](https://dev.to/akinghill/start-using-prettier-the-right-way-59kg)
 
+### [pudzu/patterns.md at master · Udzu/pudzu · GitHub](https://github.com/Udzu/pudzu/blob/master/patterns.md)
+
 ## FEED
 
 

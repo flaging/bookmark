@@ -36,6 +36,8 @@
 
 ### [Linux删除手动编译内核](http://mudongliang.github.io/2015/06/04/linux-delete-kernel-manually.html)
 
+### [Linux内核源码分析之setup_arch (一) - 知乎](https://zhuanlan.zhihu.com/p/305604761)
+
 ## FEED
 
 

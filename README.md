@@ -34,6 +34,8 @@
 
 ### [docker - Dockerfile if else condition with external arguments - Stack Overflow](https://stackoverflow.com/questions/43654656/dockerfile-if-else-condition-with-external-arguments)
 
+### [Linux删除手动编译内核](http://mudongliang.github.io/2015/06/04/linux-delete-kernel-manually.html)
+
 ## FEED
 
 

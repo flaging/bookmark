@@ -38,6 +38,8 @@
 
 ### [写CUDA到底难在哪？ - 知乎](https://www.zhihu.com/question/437131193/answer/1733266503?utm_medium=social&utm_oi=49336847171584&utm_source=com.instapaper.android)
 
+### [现实世界中的AI芯片：互操作性、约束、成本、能效和模型-InfoQ](https://www.infoq.cn/article/TjtY8y0fWYoi30q6Nhab)
+
 ## FEED
 
 

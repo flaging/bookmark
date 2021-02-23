@@ -34,6 +34,8 @@
 
 ### [GitHub - Embarcadero/Dev-Cpp: A fast, portable, simple, and free C/C++ IDE](https://github.com/Embarcadero/Dev-Cpp)
 
+### [扩展Pytorch：利用CUDA实现算子（二） - 知乎](https://zhuanlan.zhihu.com/p/350849116)
+
 ## FEED
 
 

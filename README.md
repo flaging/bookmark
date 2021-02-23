@@ -44,6 +44,8 @@
 Google AI Blog: Introducing Model Search: An Open Source Platform for Finding Optimal ML Models
 ](http://ai.googleblog.com/2021/02/introducing-model-search-open-source.html)
 
+### [ResNet及其变种的结构梳理、有效性分析与代码解读 - 知乎](https://zhuanlan.zhihu.com/p/54289848)
+
 ## FEED
 
 

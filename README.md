@@ -36,6 +36,8 @@
 
 ### [扩展Pytorch：利用CUDA实现算子（二） - 知乎](https://zhuanlan.zhihu.com/p/350849116)
 
+### [写CUDA到底难在哪？ - 知乎](https://www.zhihu.com/question/437131193/answer/1733266503?utm_medium=social&utm_oi=49336847171584&utm_source=com.instapaper.android)
+
 ## FEED
 
 

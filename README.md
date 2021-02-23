@@ -40,6 +40,10 @@
 
 ### [现实世界中的AI芯片：互操作性、约束、成本、能效和模型-InfoQ](https://www.infoq.cn/article/TjtY8y0fWYoi30q6Nhab)
 
+### [
+Google AI Blog: Introducing Model Search: An Open Source Platform for Finding Optimal ML Models
+](http://ai.googleblog.com/2021/02/introducing-model-search-open-source.html)
+
 ## FEED
 
 

@@ -30,6 +30,12 @@
 
 ## 2021-2-24
 
+### [ENV 设置环境变量 - Docker —— 从入门到实践](https://yeasy.gitbook.io/docker_practice/image/dockerfile/env)
+
+### [torch.utils.checkpoint · Pytorch 中文文档](https://pytorch.apachecn.org/docs/1.0/checkpoint.html)
+
+### [torch.nn — PyTorch 1.7.1 documentation](https://pytorch.org/docs/stable/nn.html)
+
 ## FEED
 
 

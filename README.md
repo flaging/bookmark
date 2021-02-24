@@ -39,6 +39,8 @@
 ### [NVIDIA DALI documentation — NVIDIA DALI 0.30.0
  documentation](https://docs.nvidia.com/deeplearning/dali/user-guide/docs/index.htmlinstallation.html)
 
+### [Databricks开源项目MLflow入门学习](https://juejin.cn/post/6932017981329408008)
+
 ## FEED
 
 

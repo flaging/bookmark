@@ -36,6 +36,9 @@
 
 ### [torch.nn — PyTorch 1.7.1 documentation](https://pytorch.org/docs/stable/nn.html)
 
+### [NVIDIA DALI documentation — NVIDIA DALI 0.30.0
+ documentation](https://docs.nvidia.com/deeplearning/dali/user-guide/docs/index.htmlinstallation.html)
+
 ## FEED
 
 

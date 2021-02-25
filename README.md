@@ -42,6 +42,10 @@
 
 ### [GitHub - CNugteren/CLBlast: Tuned OpenCL BLAS](https://github.com/CNugteren/CLBlast)
 
+### [公司内部做一次好的技术分享需要注意哪些事情？ - V2EX](https://www.v2ex.com/t/755724)
+
+### [理解深度学习:神经网络的双胞胎兄弟-自编码器(上)](https://juejin.cn/post/6932101785687425031)
+
 ## FEED
 
 

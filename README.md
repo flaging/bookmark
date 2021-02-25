@@ -54,6 +54,8 @@
 
 ### [量化示例_Atlas 200 DK 开发者套件（版本 20.0.0）_开发辅助工具_模型小型化工具使用指导（Caffe)_量化Caffe原始网络模型_分类网络模型量化_华为云](https://support.huaweicloud.com/ti-mc-A200dk_3000/altasmodelling_16_012.html)
 
+### [16BPP.net: Blog / PSRayTracing, A revisit of the Peter Shirley Minibooks 4 years later](https://16bpp.net/blog/post/psraytracing-a-revisit-of-the-peter-shirley-minibooks-4-years-later/)
+
 ## FEED
 
 

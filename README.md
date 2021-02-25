@@ -32,6 +32,8 @@
 
 ### [None](https://www.bilibili.com/video/av85655193/)
 
+### [networking - Finding local IP addresses using Python's stdlib - Stack Overflow](https://stackoverflow.com/questions/166506/finding-local-ip-addresses-using-pythons-stdlib)
+
 ## FEED
 
 

@@ -46,6 +46,8 @@
 
 ### [理解深度学习:神经网络的双胞胎兄弟-自编码器(上)](https://juejin.cn/post/6932101785687425031)
 
+### [DALI/test_RN50_data_pipeline.py at master · NVIDIA/DALI · GitHub](https://github.com/NVIDIA/DALI/blob/master/dali/test/python/test_RN50_data_pipeline.py)
+
 ## FEED
 
 

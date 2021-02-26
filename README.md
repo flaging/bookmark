@@ -32,6 +32,8 @@
 
 ### [GitHub - BSlience/transformer-all-in-one](https://github.com/BSlience/transformer-all-in-one)
 
+### [GitHub - kdeldycke/awesome-engineering-team-management: 👔 How to transition from software development to engineering management](https://github.com/kdeldycke/awesome-engineering-team-management)
+
 ## FEED
 
 

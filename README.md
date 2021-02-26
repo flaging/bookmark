@@ -34,6 +34,8 @@
 
 ### [GitHub - kdeldycke/awesome-engineering-team-management: 👔 How to transition from software development to engineering management](https://github.com/kdeldycke/awesome-engineering-team-management)
 
+### [transformer细枝末节[pytorch版本]](https://juejin.cn/post/6932823144268824584)
+
 ## FEED
 
 

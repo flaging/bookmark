@@ -42,6 +42,8 @@
 			Simple considerations for simple people building fancy neural networks
 	](https://huggingface.co/blog/simple-considerations)
 
+### [A Vim Guide for Intermediate Users](https://thevaluable.dev/vim-intermediate/)
+
 ## FEED
 
 

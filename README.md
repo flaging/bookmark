@@ -36,6 +36,12 @@
 
 ### [transformer细枝末节[pytorch版本]](https://juejin.cn/post/6932823144268824584)
 
+### [10 Must Read ML Blog Posts - Elvis's Blog](https://elvissaravia.substack.com/p/10-must-read-ml-blog-posts)
+
+### [
+			Simple considerations for simple people building fancy neural networks
+	](https://huggingface.co/blog/simple-considerations)
+
 ## FEED
 
 

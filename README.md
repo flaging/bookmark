@@ -44,6 +44,8 @@
 
 ### [A Vim Guide for Intermediate Users](https://thevaluable.dev/vim-intermediate/)
 
+### [国内有哪些值得开发者关注的技术团队？ | InfoQ推荐-InfoQ](https://www.infoq.cn/article/C6H0S1pRKhlATBT7ocy2)
+
 ## FEED
 
 

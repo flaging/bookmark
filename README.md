@@ -34,6 +34,8 @@
 
 ### [Newsletter | Python Engineer](https://python-engineer.com/newsletter)
 
+### [A Vim Guide for Advanced Users](https://thevaluable.dev/vim-advanced/)
+
 ## FEED
 
 

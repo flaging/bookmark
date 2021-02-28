@@ -30,6 +30,8 @@
 
 ## 2021-2-28
 
+### [GitHub - kuchin/awesome-cto: A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups](https://github.com/kuchin/awesome-cto)
+
 ## FEED
 
 

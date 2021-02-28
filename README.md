@@ -32,6 +32,8 @@
 
 ### [GitHub - kuchin/awesome-cto: A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups](https://github.com/kuchin/awesome-cto)
 
+### [Newsletter | Python Engineer](https://python-engineer.com/newsletter)
+
 ## FEED
 
 

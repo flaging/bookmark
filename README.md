@@ -40,6 +40,12 @@
 
 ### [How to continue a script after it reboots the machine? - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/145294/how-to-continue-a-script-after-it-reboots-the-machine)
 
+### [python logging 日志输出 学习笔记 时间格式化_Johnny's Lab-CSDN博客](https://blog.csdn.net/z_johnny/article/details/50812878)
+
+### [Python之日志处理（logging模块） - 云游道士 - 博客园](https://www.cnblogs.com/yyds/p/6901864.html)
+
+### [使用python将十六进制转储到YAML中 - Thinbug](https://www.thinbug.com/q/18666816)
+
 ## FEED
 
 

@@ -38,6 +38,8 @@
 
 ### [Linux crontab 命令 | 菜鸟教程](http://www.runoob.com/linux/linux-comm-crontab.html)
 
+### [How to continue a script after it reboots the machine? - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/145294/how-to-continue-a-script-after-it-reboots-the-machine)
+
 ## FEED
 
 

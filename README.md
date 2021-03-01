@@ -46,6 +46,11 @@
 
 ### [使用python将十六进制转储到YAML中 - Thinbug](https://www.thinbug.com/q/18666816)
 
+### [
+](http://mp.weixin.qq.com/s?__biz=MzAwMjg1NjY3Nw==&mid=2247506828&idx=1&sn=181108bc56ba4060e82de3f06ba7ba73&chksm=9ac69806adb111101feed36ae7d2fe63b2a1ec4fefd1ff28439b08391f020d3659e76a552c7f#rd)
+
+### [解决“service XXX does not support chkconfig”的问题-Professor哥-51CTO博客](https://blog.51cto.com/professor/1579791)
+
 ## FEED
 
 

@@ -36,6 +36,8 @@
 
 ### [Hinton独立发布44页论文火爆社区，没有实验：给你们个idea，自己去试吧 | 机器之心](https://www.jiqizhixin.com/articles/2021-02-28-4)
 
+### [Linux crontab 命令 | 菜鸟教程](http://www.runoob.com/linux/linux-comm-crontab.html)
+
 ## FEED
 
 

@@ -42,6 +42,8 @@
 
 ### [系统运维|Ansible 剧本快速入门指南](https://linux.cn/article-13167-1.html)
 
+### [BERT模型入门系列（四）:Transformer模型详解](https://juejin.cn/post/6933839342813216781)
+
 ## FEED
 
 

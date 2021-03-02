@@ -32,6 +32,8 @@
 
 ### [AI框架如何帮助开发者提升精度调优效率 - 知乎](https://zhuanlan.zhihu.com/p/353715732)
 
+### [ Foundational distributed systems papers](http://muratbuffalo.blogspot.com/2021/02/foundational-distributed-systems-papers.html)
+
 ## FEED
 
 

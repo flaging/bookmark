@@ -34,6 +34,14 @@
 
 ### [ Foundational distributed systems papers](http://muratbuffalo.blogspot.com/2021/02/foundational-distributed-systems-papers.html)
 
+### [
+        
+            C++ to Rust - or how to render your mindset :: Jakub Duchniewicz  — Personal space
+        
+    ](https://jduchniewicz.com/posts/2021/02/c-to-rust-or-how-to-render-your-mindset/)
+
+### [系统运维|Ansible 剧本快速入门指南](https://linux.cn/article-13167-1.html)
+
 ## FEED
 
 

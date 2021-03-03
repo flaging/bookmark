@@ -29,3 +29,5 @@
 
 
 ## 2021-3-4
+
+### [Attention is all you need:想学Bert？从“头”开始](https://juejin.cn/post/6934724400071573517)

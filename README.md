@@ -53,6 +53,8 @@
 
 ### [IP模块之ipy的使用 - 一抹浅笑 - 博客园](https://www.cnblogs.com/zhaopanpan/articles/10266011.html)
 
+### [Intel® 64 and IA-32 Architectures Software Developer Manuals](https://www.intel.com/content/www/us/en/develop/articles/intel-sdm.html)
+
 ## FEED
 
 

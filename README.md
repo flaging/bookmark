@@ -47,6 +47,8 @@
 
 ### [GitHub - SimonBlanke/Gradient-Free-Optimizers: Simple and reliable optimization with local, global, population-based and sequential techniques in numerical search spaces.](https://github.com/SimonBlanke/Gradient-Free-Optimizers)
 
+### [聊聊Linux用户态驱动设计 - wahaha02 - 博客园](https://www.cnblogs.com/wahaha02/p/8569074.html)
+
 ## FEED
 
 

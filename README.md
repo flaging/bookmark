@@ -55,6 +55,8 @@
 
 ### [Intel® 64 and IA-32 Architectures Software Developer Manuals](https://www.intel.com/content/www/us/en/develop/articles/intel-sdm.html)
 
+### [python-ipy/IPy.py at master · autocracy/python-ipy · GitHub](https://github.com/autocracy/python-ipy/blob/master/IPy.py)
+
 ## FEED
 
 

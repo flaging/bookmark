@@ -52,6 +52,9 @@
 
 ### [GitHub - hyunwoongko/openchat: Opensource chatting framework for generative models](https://github.com/hyunwoongko/openchat)
 
+### [
+](http://mp.weixin.qq.com/s?__biz=MzkzNDE2ODg4MA==&mid=2247485428&idx=1&sn=81c867537a4976f7fe031bcbdfcf3721&chksm=c24017abf5379ebd1d38e2775ca66d9ce491c1d93e0a6fa96c45b024eef16ce8e61909fdc344#rd)
+
 ## FEED
 
 

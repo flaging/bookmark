@@ -48,6 +48,10 @@
 
 ### [awk 入门教程 - 阮一峰的网络日志](https://www.ruanyifeng.com/blog/2018/11/awk.html)
 
+### [GitHub - extreme-assistant/CVPR2021-Paper-Code-Interpretation: cvpr2021/cvpr2020/cvpr2019/cvpr2018/cvpr2017 论文/代码/解读/直播合集，极市团队整理](https://github.com/extreme-assistant/CVPR2021-Paper-Code-Interpretation)
+
+### [GitHub - hyunwoongko/openchat: Opensource chatting framework for generative models](https://github.com/hyunwoongko/openchat)
+
 ## FEED
 
 

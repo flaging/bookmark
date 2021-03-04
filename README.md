@@ -42,6 +42,12 @@
 
 ### [dev Info Page](http://mails.dpdk.org/listinfo/dev)
 
+### [GitHub - pystardust/ytfzf: A posix script to find and watch youtube videos from the terminal. (With out API)](https://github.com/pystardust/ytfzf)
+
+### [在awk中执行system命令------太有用了_认知  行动  坚持-CSDN博客](https://blog.csdn.net/stpeace/article/details/78723301)
+
+### [awk 入门教程 - 阮一峰的网络日志](https://www.ruanyifeng.com/blog/2018/11/awk.html)
+
 ## FEED
 
 

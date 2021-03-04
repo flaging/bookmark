@@ -34,6 +34,10 @@
 
 ### [Alert yourself after a long-running task in terminal · GitHub](https://gist.github.com/petethepig/2d29e8b7e2ebc808bfe760b632608966)
 
+### [BERT模型入门系列（二）: Attention模型实现](https://juejin.cn/post/6930165634986672142)
+
+### [BERT模型入门系列: Attention机制入门](https://juejin.cn/post/6910947030978773005)
+
 ## FEED
 
 

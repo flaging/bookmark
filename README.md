@@ -44,6 +44,10 @@
 
 ### [GitHub - laekov/fastmoe: A fast MoE impl for PyTorch](https://github.com/laekov/fastmoe)
 
+### [Introduction - 100 Page Python Intro](https://learnbyexample.github.io/100_page_python_intro/introduction.html)
+
+### [GitHub - zhaoolee/garss: Github Actions采集RSS, 打造无广告内容优质的头版头条超赞宝藏页](https://github.com/zhaoolee/garss)
+
 ## FEED
 
 

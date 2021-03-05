@@ -34,6 +34,8 @@
 
 ### [GitHub - androiddevnotes/awesome-google-engineering-blogs: 👓 A collection of all the Google developer and engineering blogs related to programming, security, opensource, testing, android, youtube, etc.](https://github.com/androiddevnotes/awesome-google-engineering-blogs)
 
+### [chkconfig命令_Linux chkconfig 命令用法详解：检查或设置系统的各种服务](https://man.linuxde.net/chkconfig)
+
 ## FEED
 
 

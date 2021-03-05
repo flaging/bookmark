@@ -48,6 +48,8 @@
 
 ### [GitHub - zhaoolee/garss: Github Actions采集RSS, 打造无广告内容优质的头版头条超赞宝藏页](https://github.com/zhaoolee/garss)
 
+### [bash shell:获取当前脚本的绝对路径(pwd/readlink)_10km的专栏-CSDN博客](https://blog.csdn.net/10km/article/details/51906821)
+
 ## FEED
 
 

@@ -32,6 +32,8 @@
 
 ### [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://www.notion.so)
 
+### [GitHub - androiddevnotes/awesome-google-engineering-blogs: 👓 A collection of all the Google developer and engineering blogs related to programming, security, opensource, testing, android, youtube, etc.](https://github.com/androiddevnotes/awesome-google-engineering-blogs)
+
 ## FEED
 
 

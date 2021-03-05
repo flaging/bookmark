@@ -36,6 +36,14 @@
 
 ### [chkconfig命令_Linux chkconfig 命令用法详解：检查或设置系统的各种服务](https://man.linuxde.net/chkconfig)
 
+### [Map of my personal data infrastructure | beepb00p](https://beepb00p.xyz/myinfra.html)
+
+### [Home Page - FPGA Tutorial](https://www.fpgatutorial.com/)
+
+### [智源联合清华开源FastMoE：首个支持 PyTorch 框架的 MoE 系统，万亿AI模型基石-InfoQ](https://www.infoq.cn/article/TDQdjUWugUYhMJGaoOUJ)
+
+### [GitHub - laekov/fastmoe: A fast MoE impl for PyTorch](https://github.com/laekov/fastmoe)
+
 ## FEED
 
 

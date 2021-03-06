@@ -51,6 +51,12 @@
 
 ### [GitHub - spatialaudio/signals-and-systems-lecture: Continuous- and Discrete-Time Signals and Systems - Theory and Computational Examples](https://github.com/spatialaudio/signals-and-systems-lecture)
 
+### [技术|awk：一个强大的文本分析工具](https://linux.cn/article-13177-1.html)
+
+### [Specialized Hardware and Open Source Adoption - Equinix Bare Metal Blog](https://metal.equinix.com/blog/specialized-hardware-and-open-source/)
+
+### [如何提升链路目标一致性？爱奇艺短视频推荐之粗排模型优化历程-InfoQ](https://www.infoq.cn/article/qBDu3FFUvALQX63UbuSl)
+
 ## FEED
 
 

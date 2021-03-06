@@ -64,7 +64,7 @@ jobs:
           fi
           if [ -f 'feed/'$(date "+%Y/%-m-%-d.md") ];then
             echo -e '\n\n## FEED\n\n' >> README.md
-            cat 'feed/'$(date "+%Y/%-m-%-d.md") >> README.md
+            # cat 'feed/'$(date "+%Y/%-m-%-d.md") >> README.md
           fi
           git add .
       - name: git commit

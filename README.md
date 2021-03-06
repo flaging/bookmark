@@ -45,6 +45,10 @@
 
 ### [GitHub - blitzpp/blitz: Blitz++ Multi-Dimensional Array Library for C++](https://github.com/blitzpp/blitz)
 
+### [GitHub - 52CV/CVPR-2021-Papers](https://github.com/52CV/CVPR-2021-Papers)
+
+### [GitHub - Developer-Y/cs-video-courses: List of Computer Science courses with video lectures.](https://github.com/Developer-Y/cs-video-courses)
+
 ## FEED
 
 

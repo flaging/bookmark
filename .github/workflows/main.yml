@@ -63,7 +63,7 @@ jobs:
             cat 'bookmarks/'$(date "+%Y/%-m-%-d.md") >> README.md
           fi
           if [ -f 'feed/'$(date "+%Y/%-m-%-d.md") ];then
-            echo -e '\n\n## FEED\n\n' >> README.md
+            # echo -e '\n\n## FEED\n\n' >> README.md
             # cat 'feed/'$(date "+%Y/%-m-%-d.md") >> README.md
           fi
           git add .

@@ -57,6 +57,8 @@
 
 ### [如何提升链路目标一致性？爱奇艺短视频推荐之粗排模型优化历程-InfoQ](https://www.infoq.cn/article/qBDu3FFUvALQX63UbuSl)
 
+### [RISC-V阵营“大阅兵”](https://www.eefocus.com/original/1765)
+
 ## FEED
 
 

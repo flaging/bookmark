@@ -39,6 +39,8 @@
 
 ### [GitHub - sysstat/sysstat: Performance monitoring tools for Linux](https://github.com/sysstat/sysstat)
 
+### [GitHub - huggingface/accelerate: A simple way to train and use NLP models with multi-GPU, TPU, mixed-precision](https://github.com/huggingface/accelerate)
+
 ## FEED
 
 

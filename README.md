@@ -49,6 +49,8 @@
 
 ### [GitHub - Developer-Y/cs-video-courses: List of Computer Science courses with video lectures.](https://github.com/Developer-Y/cs-video-courses)
 
+### [GitHub - spatialaudio/signals-and-systems-lecture: Continuous- and Discrete-Time Signals and Systems - Theory and Computational Examples](https://github.com/spatialaudio/signals-and-systems-lecture)
+
 ## FEED
 
 

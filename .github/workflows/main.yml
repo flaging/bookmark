@@ -62,10 +62,10 @@ jobs:
             echo -e '\n\n## BOOKMARKS\n\n' >> README.md
             cat 'bookmarks/'$(date "+%Y/%-m-%-d.md") >> README.md
           fi
-          if [ -f 'feed/'$(date "+%Y/%-m-%-d.md") ];then
+          # if [ -f 'feed/'$(date "+%Y/%-m-%-d.md") ];then
             # echo -e '\n\n## FEED\n\n' >> README.md
             # cat 'feed/'$(date "+%Y/%-m-%-d.md") >> README.md
-          fi
+          # fi
           git add .
       - name: git commit
         run:

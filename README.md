@@ -29,14 +29,4 @@
 
 
 
-## 2021-3-7
-
-### [Windows-包管理工具Chocolatey - 知乎](https://zhuanlan.zhihu.com/p/93910353)
-
-### [GitHub - c0re100/qBittorrent-Enhanced-Edition: [Unofficial] qBittorrent Enhanced, based on qBittorrent](http://github.com/c0re100/qBittorrent-Enhanced-Edition)
-
-### [TorchVision Faster R-CNN 微调，实战 Kaggle 小麦检测](https://juejin.cn/post/6935603319792468004)
-
-### [【译】数据科学中的 9 种距离度量](https://juejin.cn/post/6935265008045686815)
-
-### [python系列教程50](https://juejin.cn/post/6935248119810506788)
+## 2021-3-8

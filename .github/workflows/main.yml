@@ -57,7 +57,7 @@ jobs:
           if [ -f 'README.md' ];then
             rm README.md
           fi
-          cp README_O.md README.md
+          cp README_O.md.txt README.md
           if [ -f 'bookmarks/'$(date "+%Y/%-m-%-d.md") ];then
             echo -e '\n\n## BOOKMARKS\n\n' >> README.md
             cat 'bookmarks/'$(date "+%Y/%-m-%-d.md") >> README.md

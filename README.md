@@ -38,3 +38,7 @@
 ### [Topcoder Coding best practices | Topcoder](https://www.topcoder.com/coding-best-practices/)
 
 ### [svn密码存放位置_cpdoor2163_com的专栏-CSDN博客](https://blog.csdn.net/cpdoor2163_com/article/details/8282508)
+
+### [
+Recommendation Algorithms & System Designs of YouTube, Spotify, Airbnb, Netflix And Uber
+](https://www.theinsaneapp.com/2021/03/system-design-and-recommendation-algorithms.html)

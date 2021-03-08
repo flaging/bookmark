@@ -34,3 +34,5 @@
 ### [AI 芯片和传统芯片有何区别？ - 知乎](https://www.zhihu.com/question/285202403/answer/1717056829?utm_medium=social&utm_oi=49336847171584&utm_source=com.instapaper.android)
 
 ### [leader以及师父的职场建议_小仙女的博客-CSDN博客](https://blog.csdn.net/weixin_42133481/article/details/114262771)
+
+### [Topcoder Coding best practices | Topcoder](https://www.topcoder.com/coding-best-practices/)

@@ -30,3 +30,5 @@
 
 
 ## 2021-3-9
+
+### [GitHub - hellodword/wechat-feeds: 给微信公众号生成 RSS 订阅源](https://github.com/hellodword/wechat-feeds?continueFlag=24e575d76c6f28061baf63652754a9e5)

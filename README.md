@@ -29,14 +29,4 @@
 
 
 
-## 2021-3-9
-
-### [GitHub - hellodword/wechat-feeds: 给微信公众号生成 RSS 订阅源](https://github.com/hellodword/wechat-feeds?continueFlag=24e575d76c6f28061baf63652754a9e5)
-
-### [Mac osx 下安装iTerm2，并使用rz sz上传下载（附homebrew配置） - SegmentFault 思否](https://segmentfault.com/a/1190000012166969)
-
-### [Analyzing Linux kernel crash dumps with crash - The one tutorial that has it all](https://www.dedoimedo.com/computers/crash-analyze.html)
-
-### [FPGA Device Feature List (DFL) Framework Overview — The Linux Kernel  documentation](https://01.org/linuxgraphics/gfx-docs/drm/fpga/dfl.html)
-
-### [The Linux Kernel documentation — The Linux Kernel  documentation](https://01.org/linuxgraphics/gfx-docs/drm/)
+## 2021-3-10

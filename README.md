@@ -29,8 +29,4 @@
 
 
 
-## 2021-3-10
-
-### [GitHub - YellowOldOdd/SDBI: Simple Dynamic Batching Inference](https://github.com/YellowOldOdd/SDBI)
-
-### [rust 语法梳理 (1) - Rayn Miller](http://www.wilson-blog.cn/post/2021/02/14/rust.syntax.html)
+## 2021-3-11

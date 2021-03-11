@@ -34,3 +34,7 @@
 ### [一个Job在OneFlow中的执行过程—中篇 - 知乎](https://zhuanlan.zhihu.com/p/355654002)
 
 ### [Graph Technology Landscape 2020 | GraphAware](https://graphaware.com/graphaware/2020/02/17/graph-technology-landscape-2020.html)
+
+### [linux - 在QEMU中为NVMe设置4k块大小 - IT工具网](https://www.coder.work/article/2226687)
+
+### [查找并替换sed中的排除个案](https://qastack.cn/superuser/1319048/find-and-replace-with-exclude-cases-in-sed)

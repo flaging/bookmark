@@ -32,3 +32,5 @@
 ## 2021-3-11
 
 ### [一个Job在OneFlow中的执行过程—中篇 - 知乎](https://zhuanlan.zhihu.com/p/355654002)
+
+### [Graph Technology Landscape 2020 | GraphAware](https://graphaware.com/graphaware/2020/02/17/graph-technology-landscape-2020.html)

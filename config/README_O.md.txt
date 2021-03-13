@@ -1,8 +1,6 @@
 # flaging的更新日常
 
-## 原创
-
-### 博客更新
+## 博客更新
 
 [vim实用教程](./Content/vim.md)
 
@@ -12,14 +10,10 @@
 
 [tmux使用](Content/tool_200720_tmux.md)
 
-### 简历
+## 简历
 
-[简历-尚未更新](RESUME.md)
+[简历-尚未更新](config/RESUME.md)
 
 ## 订阅
 
-### 书签
-
 [书签每日更新](./bookmarks/bookmark.md)
-
-### RSS FEED

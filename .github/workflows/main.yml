@@ -36,7 +36,7 @@ jobs:
       - name: config env
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install -r config/requirements.txt
       - name: git pull
         run: |
           git config --local user.email "liyupeng341@163.com"
@@ -57,7 +57,7 @@ jobs:
           if [ -f 'README.md' ];then
             rm README.md
           fi
-          cp README_O.md.txt README.md
+          cp config/README_O.md.txt README.md
           if [ -f 'bookmarks/'$(date "+%Y/%-m-%-d.md") ];then
             echo -e '\n\n## BOOKMARKS\n\n' >> README.md
             cat 'bookmarks/'$(date "+%Y/%-m-%-d.md") >> README.md

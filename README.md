@@ -42,3 +42,6 @@
 ### [Top Google Chrome Extensions For Devs 🔥🚀 - DEV Community](https://dev.to/devlorenzo/top-google-chrome-extensions-for-devs-2mkf)
 
 ### [GitHub - golemfactory/golem: New Golem Network (aka Yagna)](https://github.com/golemfactory/golem)
+
+### [
+](http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247551866&idx=3&sn=4427a92ad4b37f74b4e4dd17147d589f&chksm=fc86ea69cbf1637f3e097e89bda1a6b6a77c9081b34dc8c2262f8ee044adeaa2dbf00bf93aab#rd)

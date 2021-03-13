@@ -30,3 +30,11 @@
 ### [GitHub - sudharsan13296/Getting-Started-with-Google-BERT: Build and train state-of-the-art natural language processing models using BERT](https://github.com/sudharsan13296/Getting-Started-with-Google-BERT)
 
 ### [GitHub - Maratyszcza/pthreadpool: Portable (POSIX/Windows/Emscripten) thread pool for C/C++](https://github.com/Maratyszcza/pthreadpool)
+
+### [oneAPI](https://www.oneapi.com/)
+
+### [Q by Mimicry Labs - Home](https://q.mimicrylabs.com/)
+
+### [Parallel Compilation Experiments in C++Builder and Dev C++ - C++ Stories](https://www.cppstories.com/2021/par-devcpp/)
+
+### [「花花世界」经验浅谈——鲜花的选、买、养与藏 - 少数派](https://sspai.com/post/65243)

@@ -8,4 +8,4 @@ deploy:
   type: git
   # 这里填写博客 repo 地址，非源码地址
   repo: git@github.com:flaging/flaging.git
-
+timezone: Aisa/Shanghai

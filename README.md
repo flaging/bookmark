@@ -23,33 +23,4 @@
 
 
 
-## 2021-3-13
-
-### [机器学习术语表  |  Google Developers](https://developers.google.com/machine-learning/glossary?hl=zh-cn)
-
-### [GitHub - sudharsan13296/Getting-Started-with-Google-BERT: Build and train state-of-the-art natural language processing models using BERT](https://github.com/sudharsan13296/Getting-Started-with-Google-BERT)
-
-### [GitHub - Maratyszcza/pthreadpool: Portable (POSIX/Windows/Emscripten) thread pool for C/C++](https://github.com/Maratyszcza/pthreadpool)
-
-### [oneAPI](https://www.oneapi.com/)
-
-### [Q by Mimicry Labs - Home](https://q.mimicrylabs.com/)
-
-### [Parallel Compilation Experiments in C++Builder and Dev C++ - C++ Stories](https://www.cppstories.com/2021/par-devcpp/)
-
-### [「花花世界」经验浅谈——鲜花的选、买、养与藏 - 少数派](https://sspai.com/post/65243)
-
-### [Top Google Chrome Extensions For Devs 🔥🚀 - DEV Community](https://dev.to/devlorenzo/top-google-chrome-extensions-for-devs-2mkf)
-
-### [GitHub - golemfactory/golem: New Golem Network (aka Yagna)](https://github.com/golemfactory/golem)
-
-### [
-](http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247551866&idx=3&sn=4427a92ad4b37f74b4e4dd17147d589f&chksm=fc86ea69cbf1637f3e097e89bda1a6b6a77c9081b34dc8c2262f8ee044adeaa2dbf00bf93aab#rd)
-
-### [15 本能够明显改善生活的好书_详细解读_最新资讯_热点事件_36氪](https://36kr.com/p/1126480866882056)
-
-### [
-](http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&mid=2650421178&idx=2&sn=ae7cd9ca9515d2b2b0c96e529035a8d4&chksm=becdb1e089ba38f69d1d7209f354d32b2b9bde164ad85354bffdb54d8a66f23ae6484fce0f56#rd)
-
-### [
-](http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&mid=2650421214&idx=2&sn=b13e8e5e5933e58d6fa2223b785664e5&chksm=becdb18489ba3892b657a6810287629a4853a3a6db69c4e4923a338d11abadad821d01837eba#rd)
+## 2021-3-14

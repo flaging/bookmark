@@ -24,3 +24,7 @@
 
 
 ## 2021-3-14
+
+### [Narrated: 精致的 Mac 录屏软件 - Mac玩儿法](https://www.waerfa.com/narrated-review)
+
+### [Dockfac‪e‬: 在 Dock 栏显示一些常用信息 - Mac玩儿法](https://www.waerfa.com/dockface-review)

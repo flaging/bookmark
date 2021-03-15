@@ -32,3 +32,5 @@
 ### [Docker Security - OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html)
 
 ### [万字长文：彻底搞懂容器镜像构建 - SegmentFault 思否](https://segmentfault.com/a/1190000039415992)
+
+### [shell解析yaml文件](https://www.gongmh.com/2020/05/31/shell-parse-shell/)

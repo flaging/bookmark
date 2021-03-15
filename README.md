@@ -30,3 +30,5 @@
 ### [](https://weibo.cn/sinaurl?gsid=_2A25NSsIVDeRxGeFN41QX8ybOwjuIHXVsXlLdrDV6PUJbkdAfLWP7kWpNQ9Ha7UfFwfVfRdUeW4ei5nHVUaYk6Y95&toastFlag=d6eb4a83ad081c20158510913ce8a351&toasturl=http%3A%2F%2Friscvbook.com%2Fchinese%2FRISC-V-Reader-Chinese-v2p1.pdf)
 
 ### [Docker Security - OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html)
+
+### [万字长文：彻底搞懂容器镜像构建 - SegmentFault 思否](https://segmentfault.com/a/1190000039415992)

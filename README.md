@@ -24,3 +24,7 @@
 
 
 ## 2021-3-15
+
+### [JustCC - Linux C 开发入门指导小册](https://justcc.mengkang.net/?continueFlag=bf30ebf3a490dce5e4f5c43f6f8bc96d)
+
+### [](https://weibo.cn/sinaurl?gsid=_2A25NSsIVDeRxGeFN41QX8ybOwjuIHXVsXlLdrDV6PUJbkdAfLWP7kWpNQ9Ha7UfFwfVfRdUeW4ei5nHVUaYk6Y95&toastFlag=d6eb4a83ad081c20158510913ce8a351&toasturl=http%3A%2F%2Friscvbook.com%2Fchinese%2FRISC-V-Reader-Chinese-v2p1.pdf)

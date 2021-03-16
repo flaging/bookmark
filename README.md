@@ -30,3 +30,5 @@
 ### [GitHub - lkhphuc/lightning-hydra-template: Deep Learning project template best practices with Pytorch Lightning, Hydra, Tensorboard.](https://github.com/lkhphuc/lightning-hydra-template)
 
 ### [GitHub - Tencent/Forward: a library for high performance deep learning inference on NVIDIA GPUs.](https://github.com/Tencent/Forward)
+
+### [判断文件是否存在，通配符文件匹配发生错误 binary operator expected_墨颜丶缔造非凡-CSDN博客](https://blog.csdn.net/allen_a/article/details/78338751)

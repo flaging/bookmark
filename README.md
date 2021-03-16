@@ -32,3 +32,5 @@
 ### [GitHub - Tencent/Forward: a library for high performance deep learning inference on NVIDIA GPUs.](https://github.com/Tencent/Forward)
 
 ### [判断文件是否存在，通配符文件匹配发生错误 binary operator expected_墨颜丶缔造非凡-CSDN博客](https://blog.csdn.net/allen_a/article/details/78338751)
+
+### [无需卷积，完全基于Transformer的首个视频理解架构TimeSformer出炉 | 机器之心](https://www.jiqizhixin.com/articles/2021-03-16-3)

@@ -28,3 +28,5 @@
 ### [云原生的弹性 AI 训练系列之一：基于 AllReduce 的弹性分布式训练实践](https://juejin.cn/post/6940093551988441095)
 
 ### [ 每天学习一个命令：sudo 来管理 Linux 下权限 | Verne in GitHub ](https://einverne.github.io/post/2017/05/sudo-tips.html)
+
+### [linux/rbtree.rst at master · torvalds/linux · GitHub](https://github.com/torvalds/linux/blob/master/Documentation/core-api/rbtree.rst)

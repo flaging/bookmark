@@ -38,3 +38,5 @@
 ### [Get Started with Tensor Expression — tvm 0.8.dev0 documentation](https://tvm.apache.org/docs/tutorials/get_started/tensor_expr_get_started.html)
 
 ### [VS Code有哪些奇技淫巧？ - 知乎](https://www.zhihu.com/question/309112157/answer/1476287501?utm_medium=social&utm_oi=49336847171584&utm_source=com.instapaper.android)
+
+### [GitHub - madronalabs/madronalib: MadronaLib: a C++ framework for DSP applications.](https://github.com/madronalabs/madronalib)

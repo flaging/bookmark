@@ -26,3 +26,5 @@
 ## 2021-3-19
 
 ### [spdk 建立的用户态页表 - 知乎](https://zhuanlan.zhihu.com/p/133830777)
+
+### [package manager for docker container running image busybox:uclibc - Stack Overflow](https://stackoverflow.com/questions/51377276/package-manager-for-docker-container-running-image-busyboxuclibc)

@@ -23,18 +23,4 @@
 
 
 
-## 2021-3-18
-
-### [Nimble(TVM 动态shape解决思路)论文分析 - 知乎](https://zhuanlan.zhihu.com/p/354995641)
-
-### [AI框架在GPU上训练性能优化实践（1） - 知乎](https://zhuanlan.zhihu.com/p/356995654)
-
-### [头条文章](https://weibo.com/ttarticle/x/m/show/id/2309404616012082315457?_wb_client_=1)
-
-### [Sina Visitor System](https://passport.weibo.com/visitor/visitor?_rand=1616044525.5001&a=enter&domain=.weibo.com&entry=miniblog&ua=php-sso_sdk_client-0.6.36&url=https%3A%2F%2Fweibo.com%2F1715118170%2FK6Fju11dm)
-
-### [command-not-found.com – smbget](https://command-not-found.com/smbget)
-
-### [微博](https://m.weibo.cn/status/4615876865950134)
-
-### [Introduction to RISC-V | edX](https://www.edx.org/course/introduction-to-risc-v)
+## 2021-3-19

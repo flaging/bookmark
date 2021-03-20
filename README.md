@@ -34,3 +34,7 @@
 ### [GitHub - voldemortX/pytorch-auto-drive: Segmentation models (ERFNet, ENet, DeepLab, FCN...) and Lane detection models (SCNN, SAD, PRNet, RESA, LSTR...) based on PyTorch 1.6 with mixed precision training](https://github.com/voldemortX/pytorch-auto-drive)
 
 ### [How To Enable (UP) And Disable (DOWN) A Network Interface Port In Linux | 2DayGeek](https://www.2daygeek.com/enable-disable-up-down-nic-network-interface-port-linux/)
+
+### [Working with Python dictionaries: a cheat sheet | by Mahbubul Alam | Mar, 2021 | Towards Data Science](https://towardsdatascience.com/working-with-python-dictionaries-a-cheat-sheet-706c14d29da5)
+
+### [AsciiDoc 语法快速参考 | Asciidoctor](https://asciidoctor.cn/docs/asciidoc-syntax-quick-reference/)

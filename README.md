@@ -23,18 +23,4 @@
 
 
 
-## 2021-3-20
-
-### [文字工作者福音：四行代码实现翻译，支持50种语言，开源代码，附性能实测](https://juejin.cn/post/6940986438594854925)
-
-### [手把手教你构建 C 语言编译器（3）- 词法分析器 | 三点水](https://lotabout.me/2015/write-a-C-interpreter-3/)
-
-### [awesome-hackernews/README.md at main · bminusl/awesome-hackernews · GitHub](https://github.com/bminusl/awesome-hackernews/blob/main/README.md)
-
-### [GitHub - voldemortX/pytorch-auto-drive: Segmentation models (ERFNet, ENet, DeepLab, FCN...) and Lane detection models (SCNN, SAD, PRNet, RESA, LSTR...) based on PyTorch 1.6 with mixed precision training](https://github.com/voldemortX/pytorch-auto-drive)
-
-### [How To Enable (UP) And Disable (DOWN) A Network Interface Port In Linux | 2DayGeek](https://www.2daygeek.com/enable-disable-up-down-nic-network-interface-port-linux/)
-
-### [Working with Python dictionaries: a cheat sheet | by Mahbubul Alam | Mar, 2021 | Towards Data Science](https://towardsdatascience.com/working-with-python-dictionaries-a-cheat-sheet-706c14d29da5)
-
-### [AsciiDoc 语法快速参考 | Asciidoctor](https://asciidoctor.cn/docs/asciidoc-syntax-quick-reference/)
+## 2021-3-21

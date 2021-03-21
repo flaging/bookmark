@@ -47,3 +47,9 @@
     ](https://isocpp.org/blog/2021/03/example-of-how-new-diagnostics-appear-in-pvs-studio?s=09)
 
 ### [GitHub - mathiasbynens/dotfiles at master](https://github.com/mathiasbynens/dotfiles/tree/master)
+
+### [GitHub - speechbrain/speechbrain: A PyTorch-based Speech Toolkit](https://github.com/speechbrain/speechbrain?fileGuid=V9WYwkgdwkRXyDpj)
+
+### [SQL必知必会总结1-第1-7章 | 尤尔小屋](http://www.renpeter.cn/2021/03/16/SQL%E5%BF%85%E7%9F%A5%E5%BF%85%E4%BC%9A%E6%80%BB%E7%BB%931-%E7%AC%AC1-7%E7%AB%A0.html)
+
+### [《SQL必知必会》万字精华-第8到13章](https://juejin.cn/post/6941752441419333639)

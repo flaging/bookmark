@@ -36,3 +36,12 @@
 ### [LSTM之父重提30年前的「快速权重存储系统」：线性Transformer只是它的一种变体 | 机器之心](https://www.jiqizhixin.com/articles/2021-03-21)
 
 ### [JIT in MegEngine | 机器之心](https://www.jiqizhixin.com/articles/2021-03-18)
+
+### [Getting started with ... Rust - Stack Overflow Blog](https://stackoverflow.blog/2021/03/15/getting-started-with-rust/)
+
+### [
+              
+          Example of How New Diagnostics Appear in PVS-Studio :
+        
+            Standard C++
+    ](https://isocpp.org/blog/2021/03/example-of-how-new-diagnostics-appear-in-pvs-studio?s=09)

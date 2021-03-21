@@ -24,3 +24,5 @@
 
 
 ## 2021-3-21
+
+### [Which color scale to use when visualizing data | Chartable](https://blog.datawrapper.de/which-color-scale-to-use-in-data-vis/index.html)

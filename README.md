@@ -40,3 +40,5 @@
 ### [3 skills that every Linux sysadmin should bring to the table | Enable Sysadmin](https://www.redhat.com/sysadmin/3-sysadmin-skills)
 
 ### [https://chelseatroy.com/wp-content/uploads/2020/09/Chelsea_Troy_Raft_In_Python.pdf](https://t.co/4mPbeXzmH6?amp=1&s=09)
+
+### [LLVM Weekly - #377, March 22nd 2021](http://llvmweekly.org/issue/377)

@@ -43,3 +43,9 @@
 ### [#29 Processing text using Stanza - YouTube](https://www.youtube.com/watch?v=w8vvgP4dQTU&feature=youtu.be)
 
 ### [#28 Introducing Stanza: how to download language models and load them into the library - YouTube](https://www.youtube.com/watch?reload=9&v=41aN-_NNY8g&feature=youtu.be)
+
+### [课程安排 - 动手学深度学习课程](https://courses.d2l.ai/zh-v2/)
+
+### ["软硬结合"的深度学习算法优化器，简单聊聊Halide - 知乎](https://zhuanlan.zhihu.com/p/358837301)
+
+### [算法学习笔记(66): 单调队列 - 知乎](https://zhuanlan.zhihu.com/p/346354943)

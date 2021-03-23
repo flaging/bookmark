@@ -49,3 +49,5 @@
 ### ["软硬结合"的深度学习算法优化器，简单聊聊Halide - 知乎](https://zhuanlan.zhihu.com/p/358837301)
 
 ### [算法学习笔记(66): 单调队列 - 知乎](https://zhuanlan.zhihu.com/p/346354943)
+
+### [Linux PCI Bus Subsystem — The Linux Kernel  documentation](https://dri.freedesktop.org/docs/drm/PCI/index.html)

@@ -59,3 +59,5 @@
 ### [An Infinite Data Stream with Coroutines in C++20 - ModernesCpp.com](http://www.modernescpp.com/index.php/an-infinite-data-stream-with-coroutines-in-c-20)
 
 ### [Top 16 Tar Command with Examples in Linux](https://www.linuxbuzz.com/tar-command-examples-in-linux/)
+
+### [GitHub - binzhouchn/masr: 中文语音识别系列，读者可以借助它快速训练属于自己的中文语音识别模型，或直接使用预训练模型测试效果。](https://github.com/binzhouchn/masr)

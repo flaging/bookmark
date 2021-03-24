@@ -24,3 +24,5 @@
 
 
 ## 2021-3-24
+
+### [GitHub - kickscondor/fraidycat: Follow blogs, wikis, YouTube channels, as well as accounts on Twitter, Instagram, etc. from a single page.](https://github.com/kickscondor/fraidycat)

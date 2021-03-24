@@ -26,3 +26,6 @@
 ## 2021-3-24
 
 ### [GitHub - kickscondor/fraidycat: Follow blogs, wikis, YouTube channels, as well as accounts on Twitter, Instagram, etc. from a single page.](https://github.com/kickscondor/fraidycat)
+
+### [Learning Intents behind Interactions with Knowledge Graph for
+  Recommendation  - AMiner](https://www.aminer.cn/pub/602b9c0891e0113d72356c5a/learning-intents-behind-interactions-with-knowledge-graph-for-recommendation?conf=www2021%3Ff%3Dwb)

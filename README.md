@@ -38,3 +38,5 @@
 ### [Implementing Simple Futures with Coroutines - ModernesCpp.com](http://www.modernescpp.com/index.php/implementing-futures-with-coroutines)
 
 ### [深度学习有哪些trick？ - 知乎](https://www.zhihu.com/question/30712664/answer/1799536256?utm_medium=social&utm_oi=49336847171584&utm_source=com.instapaper.android)
+
+### [【总结】推荐系统——召回篇【3】 - 知乎](https://zhuanlan.zhihu.com/p/354859728)

@@ -23,21 +23,6 @@
 
 
 
-## 2021-3-24
+## 2021-3-25
 
-### [GitHub - kickscondor/fraidycat: Follow blogs, wikis, YouTube channels, as well as accounts on Twitter, Instagram, etc. from a single page.](https://github.com/kickscondor/fraidycat)
-
-### [Learning Intents behind Interactions with Knowledge Graph for
-  Recommendation  - AMiner](https://www.aminer.cn/pub/602b9c0891e0113d72356c5a/learning-intents-behind-interactions-with-knowledge-graph-for-recommendation?conf=www2021%3Ff%3Dwb)
-
-### [微博](https://m.weibo.cn/status/K7Hc8nrnw?jumpfrom=weibocom)
-
-### [None](https://www.bilibili.com/video/av35805262/)
-
-### [None](https://www.bilibili.com/video/av754152247/)
-
-### [None](https://www.bilibili.com/video/av83912784/)
-
-### [None](https://www.bilibili.com/video/av501474051/)
-
-### [None](https://www.bilibili.com/video/av58419044/)
+### [三分钟教你如何PyTorch自定义反向传播 - 知乎](https://zhuanlan.zhihu.com/p/359524837)

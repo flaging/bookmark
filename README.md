@@ -32,3 +32,7 @@
 ### [知乎日报 - 知乎](https://daily.zhihu.com/story/9734429)
 
 ### [Profiling Python code with py-spy - wrighters.io](https://www.wrighters.io/profiling-python-code-with-py-spy/)
+
+### [SwitchDesktop - 为 Windows 10 多桌面切换添加 Win + 数字快捷键 - 小众软件](https://www.appinn.com/switchdesktop-ahk-windows-10/)
+
+### [Implementing Simple Futures with Coroutines - ModernesCpp.com](http://www.modernescpp.com/index.php/implementing-futures-with-coroutines)

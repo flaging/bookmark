@@ -36,3 +36,5 @@
 ### [SwitchDesktop - 为 Windows 10 多桌面切换添加 Win + 数字快捷键 - 小众软件](https://www.appinn.com/switchdesktop-ahk-windows-10/)
 
 ### [Implementing Simple Futures with Coroutines - ModernesCpp.com](http://www.modernescpp.com/index.php/implementing-futures-with-coroutines)
+
+### [深度学习有哪些trick？ - 知乎](https://www.zhihu.com/question/30712664/answer/1799536256?utm_medium=social&utm_oi=49336847171584&utm_source=com.instapaper.android)

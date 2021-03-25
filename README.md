@@ -26,3 +26,5 @@
 ## 2021-3-25
 
 ### [三分钟教你如何PyTorch自定义反向传播 - 知乎](https://zhuanlan.zhihu.com/p/359524837)
+
+### [C++ FAQ LITE](http://www.sunistudio.com/cppfaq/)

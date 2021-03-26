@@ -23,20 +23,4 @@
 
 
 
-## 2021-3-25
-
-### [三分钟教你如何PyTorch自定义反向传播 - 知乎](https://zhuanlan.zhihu.com/p/359524837)
-
-### [C++ FAQ LITE](http://www.sunistudio.com/cppfaq/)
-
-### [知乎日报 - 知乎](https://daily.zhihu.com/story/9734429)
-
-### [Profiling Python code with py-spy - wrighters.io](https://www.wrighters.io/profiling-python-code-with-py-spy/)
-
-### [SwitchDesktop - 为 Windows 10 多桌面切换添加 Win + 数字快捷键 - 小众软件](https://www.appinn.com/switchdesktop-ahk-windows-10/)
-
-### [Implementing Simple Futures with Coroutines - ModernesCpp.com](http://www.modernescpp.com/index.php/implementing-futures-with-coroutines)
-
-### [深度学习有哪些trick？ - 知乎](https://www.zhihu.com/question/30712664/answer/1799536256?utm_medium=social&utm_oi=49336847171584&utm_source=com.instapaper.android)
-
-### [【总结】推荐系统——召回篇【3】 - 知乎](https://zhuanlan.zhihu.com/p/354859728)
+## 2021-3-26

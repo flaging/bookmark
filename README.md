@@ -30,3 +30,7 @@
 ### [History of the Earth - YouTube](https://www.youtube.com/channel/UC_aOteuWIY8ITg7DQQspG1g)
 
 ### [GitHub - GuangzheJiang/rss_everyday: 每天向你推送你喜欢的文章](https://github.com/GuangzheJiang/rss_everyday)
+
+### [GitHub - Z3tt/OutlierConf2021: ⭕ Slides and hands-on codes for my talk "ggplot Wizardry: My Favorite Tricks and Secrets for Beautiful Plots in R" at the 1st OutlierConf, February 4–7 2021.](https://github.com/Z3tt/OutlierConf2021)
+
+### [What commands are missing from your bashrc file? | Enable Sysadmin](https://www.redhat.com/sysadmin/your-bashrc-file)

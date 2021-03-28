@@ -34,3 +34,7 @@
 ### [None](https://www.cs.princeton.edu/courses/archive/spring01/cs333/ed.c?continueFlag=a85dab4e6aba222ac6386c39a474cb98)
 
 ### [COS 333, Spring 2001: Home Page](https://www.cs.princeton.edu/courses/archive/spring01/cs333/?continueFlag=a85dab4e6aba222ac6386c39a474cb98)
+
+### [微博](https://m.weibo.cn/detail/4619780282385779)
+
+### [None](https://www.bilibili.com/video/av332346537/)

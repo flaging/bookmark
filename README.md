@@ -23,29 +23,4 @@
 
 
 
-## 2021-3-27
-
-### [Executing a Future in a Separate Thread with Coroutines - ModernesCpp.com](http://www.modernescpp.com/index.php/executing-a-future-in-a-separate-thread-with-coroutines)
-
-### [GitHub - KDE/heaptrack: A heap memory profiler for Linux](https://github.com/KDE/heaptrack)
-
-### [Release rust-gpu v0.3 · EmbarkStudios/rust-gpu · GitHub](https://github.com/EmbarkStudios/rust-gpu/releases/tag/v0.3.0)
-
-### [Lazy Futures with Coroutines - ModernesCpp.com](http://www.modernescpp.com/index.php/lazy-futures-with-coroutines-in-c-20)
-
-### [操作系统的公开课有哪些推荐？ - 知乎](https://www.zhihu.com/question/23896915/answer/1802416054?utm_medium=social&utm_oi=49336847171584&utm_source=com.instapaper.android)
-
-### [ML 2021 Spring](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html)
-
-### [None](https://www.bilibili.com/video/av929386644/)
-
-### [AMD的PyTorch机器学习工具，现在是一个Python包了 | 机器之心](https://www.jiqizhixin.com/articles/2021-03-26-3)
-
-### [发力高性能图计算，海致科技&清华共启院士专家工作站，郑纬民任首席科学家 | 机器之心](https://www.jiqizhixin.com/articles/2021-03-25-9)
-
-### [实现图深度学习复杂研究性质任务太头疼？这个新工具包帮你应对 | 机器之心](https://www.jiqizhixin.com/articles/2021-03-25-5)
-
-### [GitHub - ThinamXx/300Days__MachineLearningDeepLearning: I am sharing my Journey of 300DaysOfData in Machine Learning and Deep Learning.](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning)
-
-### [
-](http://mp.weixin.qq.com/s?__biz=MzUyMzU5ODU0Ng==&mid=2247483742&idx=1&sn=3315fddc60240f6a7b1894f0cad94597&chksm=fa3b6ee3cd4ce7f5cdc5d33b184e0cb29c96c772d3e4265e02c0e3f714ba2ef24cfc36b9461a#rd)
+## 2021-3-28

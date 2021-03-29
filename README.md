@@ -28,3 +28,5 @@
 ### [error:crosses initialization of ...的解决办法_zzwdkxx的专栏-CSDN博客](https://blog.csdn.net/zzwdkxx/article/details/27561393)
 
 ### [Is Vim Really Not For You? A Beginner Guide](https://thevaluable.dev/vim-beginner/)
+
+### [Tracking the Progress in Natural Language Processing](https://ruder.io/tracking-progress-nlp/)

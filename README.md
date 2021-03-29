@@ -30,3 +30,5 @@
 ### [Is Vim Really Not For You? A Beginner Guide](https://thevaluable.dev/vim-beginner/)
 
 ### [Tracking the Progress in Natural Language Processing](https://ruder.io/tracking-progress-nlp/)
+
+### [GitHub - datafuselabs/datafuse: Datafuse is a free Cloud-Native Analytics DBMS(Inspired by ClickHouse) implemented in Rust](https://github.com/datafuselabs/datafuse)

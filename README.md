@@ -24,3 +24,7 @@
 
 
 ## 2021-3-30
+
+### [Why I use exa instead of ls on Linux | Opensource.com](https://opensource.com/article/21/3/replace-ls-exa)
+
+### [GitHub - Dairongpeng/algorithm-note: 该系列包括数组，链表，树，图，递归，DP，有序表等相关数据结构与算法的讲解及代码实现。](https://github.com/Dairongpeng/algorithm-note)

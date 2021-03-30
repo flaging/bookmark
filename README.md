@@ -63,3 +63,5 @@
 ### [Linux uname Command tutorial – Linux Hint](https://linuxhint.com/linux-uname-command-tutorial/)
 
 ### [Linux kill command – Linux Hint](https://linuxhint.com/linux-kill-command/)
+
+### [Difference between revisions of "cpp/language/history" - cppreference.com](https://en.cppreference.com/mwiki/index.php?diff=127713&oldid=126897&title=cpp%2Flanguage%2Fhistory)

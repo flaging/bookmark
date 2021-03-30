@@ -23,14 +23,4 @@
 
 
 
-## 2021-3-29
-
-### [error:crosses initialization of ...的解决办法_zzwdkxx的专栏-CSDN博客](https://blog.csdn.net/zzwdkxx/article/details/27561393)
-
-### [Is Vim Really Not For You? A Beginner Guide](https://thevaluable.dev/vim-beginner/)
-
-### [Tracking the Progress in Natural Language Processing](https://ruder.io/tracking-progress-nlp/)
-
-### [GitHub - datafuselabs/datafuse: Datafuse is a free Cloud-Native Analytics DBMS(Inspired by ClickHouse) implemented in Rust](https://github.com/datafuselabs/datafuse)
-
-### [GitHub - zhihu/rucene: Rust port of Lucene](https://github.com/zhihu/rucene)
+## 2021-3-30

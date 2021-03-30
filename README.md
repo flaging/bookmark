@@ -34,3 +34,7 @@
 ### [Special Bash Variables with examples - LinuxConfig.org](https://linuxconfig.org/special-bash-variables-with-examples)
 
 ### [How to Add a User to the Sudoers List in Linux](https://www.makeuseof.com/add-user-to-sudoers/)
+
+### [Linux WC command with examples | FOSS Linux](https://www.fosslinux.com/45753/linux-wc-command-examples.htm/)
+
+### [LFCA: Learn Basic Networking Commands – Part 4](https://www.tecmint.com/basic-networking-commands/)

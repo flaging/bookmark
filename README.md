@@ -28,3 +28,9 @@
 ### [Why I use exa instead of ls on Linux | Opensource.com](https://opensource.com/article/21/3/replace-ls-exa)
 
 ### [GitHub - Dairongpeng/algorithm-note: 该系列包括数组，链表，树，图，递归，DP，有序表等相关数据结构与算法的讲解及代码实现。](https://github.com/Dairongpeng/algorithm-note)
+
+### [70分钟了解图神经网络，图注意力网络一作带来最「自然」的GNN讲解 | 机器之心](https://www.jiqizhixin.com/articles/2021-03-28-3)
+
+### [Special Bash Variables with examples - LinuxConfig.org](https://linuxconfig.org/special-bash-variables-with-examples)
+
+### [How to Add a User to the Sudoers List in Linux](https://www.makeuseof.com/add-user-to-sudoers/)

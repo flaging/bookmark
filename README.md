@@ -24,3 +24,5 @@
 
 
 ## 2021-4-1
+
+### [系统运维|用 Ansible 自动化系统管理员的 5 个日常任务](https://linux.cn/article-13256-1.html)

@@ -23,18 +23,4 @@
 
 
 
-## 2021-4-1
-
-### [系统运维|用 Ansible 自动化系统管理员的 5 个日常任务](https://linux.cn/article-13256-1.html)
-
-### [知乎日报 - 知乎](https://daily.zhihu.com/story/9734593)
-
-### [GitHub - rustdesk/rustdesk: RustDesk | The best open source remote desktop software](https://github.com/rustdesk/rustdesk)
-
-### [昇腾CANN社区版（20.1）_华为云](https://support.huaweicloud.com/cann/)
-
-### [昇腾社区](https://ascend.huawei.com/)
-
-### [前言_昇腾CANN社区版(3.3.0.alphaX)(训练)_TensorFlow框架模型移植适配_TensorFlow网络模型移植&训练_华为云](https://support.huaweicloud.com/tensorflowdevg-cann330alphaXtraining/atlasmprtg_13_0001.html)
-
-### [昇腾开发者社区_开发者中心 -华为云](https://developer.huaweicloud.com/techfield/ascend.html)
+## 2021-4-2

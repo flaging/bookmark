@@ -24,3 +24,11 @@
 
 
 ## 2021-4-2
+
+### [深度解读阿里云机器学习PAI AICompiler（二）动态shape编译框架 | 机器之心](https://www.jiqizhixin.com/articles/2021-03-23)
+
+### [深度解读阿里云机器学习PAI AICompiler（一）访存密集算子优化 | 机器之心](https://www.jiqizhixin.com/articles/2021-03-23-2)
+
+### [Dataflowr - Deep Learning DIY](https://dataflowr.github.io/website/)
+
+### [ts Command - Add or Convert Timestamps For Any Output in Linux - Putorius](https://www.putorius.net/ts-command-add-convert-timestamps-linux.html)

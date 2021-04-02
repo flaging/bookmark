@@ -32,3 +32,7 @@
 ### [Dataflowr - Deep Learning DIY](https://dataflowr.github.io/website/)
 
 ### [ts Command - Add or Convert Timestamps For Any Output in Linux - Putorius](https://www.putorius.net/ts-command-add-convert-timestamps-linux.html)
+
+### [Linux: test disk speed [Guide]](https://www.addictivetips.com/ubuntu-linux-tips/linux-test-disk-speed-guide/)
+
+### [LIII BitTorrent Client - 轻量级开源 BT 下载工具[Windows] - 小众软件](https://www.appinn.com/liii-bittorrent-client/)

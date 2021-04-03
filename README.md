@@ -2,13 +2,13 @@
 
 ## 博客更新
 
-[vim实用教程](./Content/vim.md)
+[vim实用教程](./blog/vim.md)
 
 [bash基础](./blog/bash.md)
 
-[Linux使用记录](Content/linux.md)
+[Linux使用记录](./blog/linux.md)
 
-[tmux使用](Content/tool_200720_tmux.md)
+[tmux使用](./blog/tool_200720_tmux.md)
 
 ## 简历
 

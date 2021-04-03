@@ -23,35 +23,4 @@
 
 
 
-## 2021-4-2
-
-### [深度解读阿里云机器学习PAI AICompiler（二）动态shape编译框架 | 机器之心](https://www.jiqizhixin.com/articles/2021-03-23)
-
-### [深度解读阿里云机器学习PAI AICompiler（一）访存密集算子优化 | 机器之心](https://www.jiqizhixin.com/articles/2021-03-23-2)
-
-### [Dataflowr - Deep Learning DIY](https://dataflowr.github.io/website/)
-
-### [ts Command - Add or Convert Timestamps For Any Output in Linux - Putorius](https://www.putorius.net/ts-command-add-convert-timestamps-linux.html)
-
-### [Linux: test disk speed [Guide]](https://www.addictivetips.com/ubuntu-linux-tips/linux-test-disk-speed-guide/)
-
-### [LIII BitTorrent Client - 轻量级开源 BT 下载工具[Windows] - 小众软件](https://www.appinn.com/liii-bittorrent-client/)
-
-### [APT Command in Linux - A Definitive Guide - LinuxBuz](https://linuxbuz.com/linuxhowto/apt-command-in-linux)
-
-### [YUM Command in Linux - A Definitive Guide - LinuxBuz](https://linuxbuz.com/linuxhowto/yum-command-in-linux)
-
-### [Linux Weekly Roundup: Manjaro 21.0, GNOME 40, and More](https://www.debugpoint.com/2021/03/linux-weekly-roundup-mar-28-2021/)
-
-### [Swin Transformer对CNN的降维打击 - 知乎](https://zhuanlan.zhihu.com/p/360513527)
-
-### [用一张 Excel 表格搞定我的个人财务记录 - 少数派](https://sspai.com/post/65038)
-
-### [
-](http://mp.weixin.qq.com/s?__biz=MzU2OTY0OTIyMQ==&mid=2247483934&idx=1&sn=5a61a30c05b6dc085351550b8bde67dd&chksm=fcfa3334cb8dba22e531057935449383e08208e44126f7159c458f549110b72e3ae214c02092#rd)
-
-### [
-Ticker Is A Terminal Stock Watcher And Position Tracker (With Cryptocurrency Support) - Linux Uprising Blog
-](https://www.linuxuprising.com/2021/03/ticker-is-terminal-stock-watcher-and.html)
-
-### [Ubuntu Fridge | Ubuntu Weekly Newsletter Issue 676](https://fridge.ubuntu.com/2021/03/29/ubuntu-weekly-newsletter-issue-676/)
+## 2021-4-3

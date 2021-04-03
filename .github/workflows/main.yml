@@ -55,11 +55,11 @@ jobs:
       - name: update readme
         run: |
           if [ -f 'README.md' ];then
-            rm README.md
+            rm index.md
           fi
           cp config/README_O.md.txt README.md
           if [ -f 'bookmarks/'$(date "+%Y/%-m-%-d.md") ];then
-            echo -e '\n\n## BOOKMARKS\n\n' >> README.md
+            # echo -e '\n\n## BOOKMARKS\n\n' >> README.md
             cat 'bookmarks/'$(date "+%Y/%-m-%-d.md") >> index.md
           fi
           # if [ -f 'feed/'$(date "+%Y/%-m-%-d.md") ];then

@@ -27,3 +27,5 @@
 
 ### [
 ](http://mp.weixin.qq.com/s?__biz=MzI5ODQxMTI2Ng==&mid=2247496801&idx=1&sn=9471af540c3509dfb85815889e7cd62d&chksm=eca4800cdbd3091a5cde88606c5e68082d8607c49b600a40e33462c28f4f1a264eca0c79dfa3#rd)
+
+### [编译系统 — zzq's blog](https://zzqcn.github.io/opensource/dpdk/code-analysis/build_sys.html)

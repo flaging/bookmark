@@ -20,3 +20,7 @@
 ### [Appscope - Progressive Web Apps Examples](https://appsco.pe/)
 
 ### [How to run Cron jobs every 10, 20, or 30 minutes – Linux Hint](https://linuxhint.com/run-cron-jobs-after-fixed-interval/)
+
+### [c - undefined reference to 'shm_open' - Stack Overflow](https://stackoverflow.com/questions/48410966/undefined-reference-to-shm-open)
+
+### [SSE优化指令集编译错误: inlining failed in call to always_inline 'xxx': target specific option mismatch xxx_磊啊磊-CSDN博客](https://blog.csdn.net/willib/article/details/52386087)

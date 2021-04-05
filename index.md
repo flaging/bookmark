@@ -18,3 +18,5 @@
 ### [Basin Hopping Optimization in Python](https://machinelearningmastery.com/basin-hopping-optimization-in-python/)
 
 ### [Appscope - Progressive Web Apps Examples](https://appsco.pe/)
+
+### [How to run Cron jobs every 10, 20, or 30 minutes – Linux Hint](https://linuxhint.com/run-cron-jobs-after-fixed-interval/)

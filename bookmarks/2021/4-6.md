@@ -16,3 +16,5 @@
 ### [Replacing String in Bash | FOSS Linux](https://www.fosslinux.com/45774/replacing-string-bash.htm/)
 
 ### [Bash printf Function: 7 Examples for Linux](https://www.makeuseof.com/bash-printf-examples/)
+
+### [后序 — 跟我一起写Makefile 1.0 文档](https://seisman.github.io/how-to-write-makefile/postscript.html)

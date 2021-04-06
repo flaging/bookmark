@@ -18,3 +18,5 @@
 ### [Bash printf Function: 7 Examples for Linux](https://www.makeuseof.com/bash-printf-examples/)
 
 ### [后序 — 跟我一起写Makefile 1.0 文档](https://seisman.github.io/how-to-write-makefile/postscript.html)
+
+### [hugepage设置相关总结_shaoyunzhe的专栏-CSDN博客_anonhugepages](https://blog.csdn.net/shaoyunzhe/article/details/54614077)

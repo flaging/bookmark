@@ -14,3 +14,5 @@
 ### [CPU algorithm trains deep neural nets up to 15 times faster than top GPU trainers](https://techxplore.com/news/2021-04-rice-intel-optimize-ai-commodity.html)
 
 ### [Kernels 101 – Let’s write a Kernel - Arjun Sreedharan](https://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
+
+### [How To Install TensorFlow Machine Learning System on Ubuntu Linux](https://www.ubuntupit.com/how-to-install-tensorflow-machine-learning-system-on-ubuntu-linux/)

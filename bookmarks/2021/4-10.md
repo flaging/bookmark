@@ -6,3 +6,5 @@
 ### [How to implement a hash table (in C)](https://benhoyt.com/writings/hash-table-in-c/)
 
 ### [USBCopyer - USB 后台静默拷贝工具，插入 U 盘立即复制全部内容到硬盘[Windows] - 小众软件](https://www.appinn.com/usbcopyer-for-windows/)
+
+### [求推荐下非科班要补哪些基础？ - V2EX](https://www.v2ex.com/t/769350)

@@ -18,3 +18,7 @@
 ### [GitHub - yengoteam/awesome-gha-snippets: 🤯 A list of useful snippets and tips for GitHub Actions (GHA).](https://github.com/yengoteam/awesome-gha-snippets)
 
 ### [All C++20 core language features with examples | Oleksandr Koval’s blog](https://oleksandrkvl.github.io/2021/04/02/cpp-20-overview.html)
+
+### [进击的AI框架，MindSpore开源一周年-InfoQ](https://www.infoq.cn/article/Nk06aiVTKvvpjYyzGdGA)
+
+### [NVIDIA 阿里云异构计算 TensorRT 加速 AI 推理 Hackathon 2021 邀请信 - 知乎](https://zhuanlan.zhihu.com/p/358435614)

@@ -8,3 +8,13 @@
 ### [USBCopyer - USB 后台静默拷贝工具，插入 U 盘立即复制全部内容到硬盘[Windows] - 小众软件](https://www.appinn.com/usbcopyer-for-windows/)
 
 ### [求推荐下非科班要补哪些基础？ - V2EX](https://www.v2ex.com/t/769350)
+
+### [初窥Ray框架](https://juejin.cn/post/6948664401700323365)
+
+### [Bi-LSTM 的 tensorflow-1.14 实现](https://juejin.cn/post/6949413253982191652)
+
+### [Seq2Seq的 tensorflow-1.14 实现](https://juejin.cn/post/6949413317311987748)
+
+### [GitHub - yengoteam/awesome-gha-snippets: 🤯 A list of useful snippets and tips for GitHub Actions (GHA).](https://github.com/yengoteam/awesome-gha-snippets)
+
+### [All C++20 core language features with examples | Oleksandr Koval’s blog](https://oleksandrkvl.github.io/2021/04/02/cpp-20-overview.html)

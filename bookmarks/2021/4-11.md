@@ -12,3 +12,5 @@
 ### [Stack Overflow Developer Survey 2020](https://insights.stackoverflow.com/survey/2020/?utm_source=social-share&utm_medium=social&utm_campaign=dev-survey-2020)
 
 ### [V2EX › 登录](https://www.v2ex.com/signin?next=%2Ft%2F769453)
+
+### [这 20 个微习惯，长远来看能给你巨大好处_详细解读_最新资讯_热点事件_36氪](https://36kr.com/p/1168527197684864)

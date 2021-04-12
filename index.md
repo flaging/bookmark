@@ -26,3 +26,7 @@
 ### [GitHub - rust-ml/linfa: A Rust machine learning framework.](https://github.com/rust-ml/linfa)
 
 ### [Coffee Time Challenge](https://datagenetics.com/blog/april42021/index.html)
+
+### [Docker Restart Policy [Explained With Examples]](https://linuxhandbook.com/docker-restart-policy/)
+
+### [Scheduling tasks with cron - Fedora Magazine](https://fedoramagazine.org/scheduling-tasks-with-cron/)

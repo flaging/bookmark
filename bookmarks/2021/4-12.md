@@ -24,3 +24,5 @@
 ### [linfa - Rust](https://docs.rs/linfa/0.3.0/linfa/)
 
 ### [GitHub - rust-ml/linfa: A Rust machine learning framework.](https://github.com/rust-ml/linfa)
+
+### [Coffee Time Challenge](https://datagenetics.com/blog/april42021/index.html)

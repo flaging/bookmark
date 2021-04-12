@@ -10,3 +10,5 @@
 ### [硬核图解红黑树并手写实现 - SegmentFault 思否](https://segmentfault.com/a/1190000039774810)
 
 ### [GitHub - rebecca-vickery/data-science-learning-resources: A comprehensive list of free resources for learning data science](https://github.com/rebecca-vickery/data-science-learning-resources)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9734927)

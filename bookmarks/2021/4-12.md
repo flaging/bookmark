@@ -12,3 +12,15 @@
 ### [GitHub - rebecca-vickery/data-science-learning-resources: A comprehensive list of free resources for learning data science](https://github.com/rebecca-vickery/data-science-learning-resources)
 
 ### [知乎日报 - 知乎](https://daily.zhihu.com/story/9734927)
+
+### [GitHub - prakhar1989/docker-curriculum: A comprehensive tutorial on getting started with Docker!](https://github.com/prakhar1989/docker-curriculum)
+
+### [HelloGitHub 第 59 期](https://hellogithub.com/periodical/volume/59/)
+
+### [rCore-Tutorial-Book 第三版 — rCore-Tutorial-Book-v3 0.1 文档](https://rcore-os.github.io/rCore-Tutorial-Book-v3/)
+
+### [Are we learning yet?](http://arewelearningyet.com/)
+
+### [linfa - Rust](https://docs.rs/linfa/0.3.0/linfa/)
+
+### [GitHub - rust-ml/linfa: A Rust machine learning framework.](https://github.com/rust-ml/linfa)

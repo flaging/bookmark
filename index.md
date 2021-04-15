@@ -20,3 +20,5 @@
 ### [7. EAL parameters — Data Plane Development Kit 21.05.0-rc0 documentation](https://doc.dpdk.org/guides/linux_gsg/linux_eal_parameters.html)
 
 ### [DPDK-----内存管理之mempool - osc_tkitmnka的个人空间 - OSCHINA - 中文开源技术交流社区](https://my.oschina.net/u/4268863/blog/3732135)
+
+### [Telegram: Contact @NewlearnerChannel](https://t.me/NewlearnerChannel/6947)

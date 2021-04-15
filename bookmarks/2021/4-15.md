@@ -22,3 +22,7 @@
 ### [DPDK-----内存管理之mempool - osc_tkitmnka的个人空间 - OSCHINA - 中文开源技术交流社区](https://my.oschina.net/u/4268863/blog/3732135)
 
 ### [Telegram: Contact @NewlearnerChannel](https://t.me/NewlearnerChannel/6947)
+
+### [Dpdk mempool concept learning - Programmer Sought](https://www.programmersought.com/article/2754764438/)
+
+### [c - How can I enable debug mode in a dpdk-based application? - Stack Overflow](https://stackoverflow.com/questions/46786206/how-can-i-enable-debug-mode-in-a-dpdk-based-application)

@@ -26,3 +26,11 @@
 ### [Dpdk mempool concept learning - Programmer Sought](https://www.programmersought.com/article/2754764438/)
 
 ### [c - How can I enable debug mode in a dpdk-based application? - Stack Overflow](https://stackoverflow.com/questions/46786206/how-can-i-enable-debug-mode-in-a-dpdk-based-application)
+
+### [如何解决DPDK内存池创建失败？ - DebugCN](https://www.debugcn.com/article/53568664.html)
+
+### [DPDK  mempool - osc_4nbpryu9的个人空间 - OSCHINA - 中文开源技术交流社区](https://my.oschina.net/u/4390157/blog/3476357)
+
+### [GitHub - chrhong/chrhong.github.io: Blog to record the coding experience](https://github.com/chrhong/chrhong.github.io)
+
+### [2.6: DPDK Overview - YouTube](https://www.youtube.com/watch?v=0G6u409cSos)

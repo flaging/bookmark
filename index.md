@@ -16,3 +16,5 @@
 ### [
 Google AI Blog: Massively Parallel Graph Computation: From Theory to Practice
 ](http://ai.googleblog.com/2021/03/massively-parallel-graph-computation.html)
+
+### [DPDK](https://core.dpdk.org/doc/quick-start/)

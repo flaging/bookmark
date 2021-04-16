@@ -26,3 +26,5 @@ Google AI Blog: Massively Parallel Graph Computation: From Theory to Practice
 ### [[dpdk] dpdk编译成动态库使用 -- PCI port自动发现与pmd动态加载 - toong - 博客园](https://www.cnblogs.com/hugetong/p/9366914.html)
 
 ### [Making Dynamic Library from Static ones using gcc --shared -m64 -Wl,--whole-archive ./*.a - Stack Overflow](https://stackoverflow.com/questions/8716857/making-dynamic-library-from-static-ones-using-gcc-shared-m64-wl-whole-arch)
+
+### [GitHub - SuperSandro2000/vim-bash-completion: bash-completion script for vim command](https://github.com/SuperSandro2000/vim-bash-completion)

@@ -22,3 +22,5 @@ Google AI Blog: Massively Parallel Graph Computation: From Theory to Practice
 ### [DPDK — App 的 Makefile 解析 | 码农家园](https://www.codenong.com/cs106855180/)
 
 ### [DPDK编译成动态库，应用程序检测不到端口的问题_搬砖的人生-CSDN博客](https://blog.csdn.net/yyywill/article/details/52965115)
+
+### [[dpdk] dpdk编译成动态库使用 -- PCI port自动发现与pmd动态加载 - toong - 博客园](https://www.cnblogs.com/hugetong/p/9366914.html)

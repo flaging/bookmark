@@ -12,3 +12,7 @@
 ### [How to clean your Docker data](https://dockerwebdev.com/tutorials/clean-up-docker/)
 
 ### [Accelerate Your NVMe Drives with SPDK](https://www.intel.com/content/www/us/en/develop/articles/accelerating-your-nvme-drives-with-spdk.html)
+
+### [
+Google AI Blog: Massively Parallel Graph Computation: From Theory to Practice
+](http://ai.googleblog.com/2021/03/massively-parallel-graph-computation.html)

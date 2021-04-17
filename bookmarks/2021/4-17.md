@@ -9,3 +9,5 @@
 ### [GitHub - rentainhe/pytorch-distributed-training: Simple tutorials on Pytorch DDP training](https://github.com/rentainhe/pytorch-distributed-training)
 
 ### [万能的内推君](https://www.lpime.cn/haoke/?continueFlag=fd585bac65c9763793ec3306fa1ab18f)
+
+### [TensorFlow Serving](https://juejin.cn/post/6951339686866452494)

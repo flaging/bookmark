@@ -15,3 +15,6 @@
 ### [gcc - Linking external DPVS application (using Makefile) with DPDK built using Meson - Stack Overflow](https://stackoverflow.com/questions/65844192/linking-external-dpvs-application-using-makefile-with-dpdk-built-using-meson)
 
 ### [用 g++ 编译 dpdk_JwLee的专栏-CSDN博客](https://blog.csdn.net/jiangwlee/article/details/30047651)
+
+### [ [dpdk-dev] Useful: Simple C++ program & Makefile
+   ](https://mails.dpdk.org/archives/dev/2014-January/001112.html)

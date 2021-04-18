@@ -18,3 +18,5 @@
 
 ### [ [dpdk-dev] Useful: Simple C++ program & Makefile
    ](https://mails.dpdk.org/archives/dev/2014-January/001112.html)
+
+### [dpdk-stable source code: doc (v17.11.7)](http://code.dpdk.org/dpdk-stable/v17.11.7/source/doc)

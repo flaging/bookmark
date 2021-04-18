@@ -20,3 +20,5 @@
    ](https://mails.dpdk.org/archives/dev/2014-January/001112.html)
 
 ### [dpdk-stable source code: doc (v17.11.7)](http://code.dpdk.org/dpdk-stable/v17.11.7/source/doc)
+
+### [4篇paper了解Transformer的局部信息建模 - 知乎](https://zhuanlan.zhihu.com/p/365202610)

@@ -13,3 +13,7 @@
 ### [忘了买电脑音响？手机来替代！ - 少数派](https://sspai.com/post/65961)
 
 ### [如何应对孤独感？ - V2EX](https://www.v2ex.com/t/771599)
+
+### [技术干货 | 基于 MindSpore 更好的理解 Focal Loss](https://juejin.cn/post/6952713530885799966)
+
+### [Five Awesome C++ Papers for the Q1 2021 and C++23 Status - C++ Stories](https://www.cppstories.com/2021/q1-cpp-papers/)

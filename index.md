@@ -9,3 +9,5 @@
    ](https://www.yoctoproject.org/pipermail/yocto/2019-August/046273.html)
 
 ### [mirrors/dpdk -  dpdk - Clarence's Git Server ](https://gitea.ananwork.com/mirrors/dpdk)
+
+### [忘了买电脑音响？手机来替代！ - 少数派](https://sspai.com/post/65961)

@@ -17,3 +17,8 @@
 ### [技术干货 | 基于 MindSpore 更好的理解 Focal Loss](https://juejin.cn/post/6952713530885799966)
 
 ### [Five Awesome C++ Papers for the Q1 2021 and C++23 Status - C++ Stories](https://www.cppstories.com/2021/q1-cpp-papers/)
+
+### [
+](http://mp.weixin.qq.com/s?__biz=MzA3NDM0ODQwMw==&mid=2649828937&idx=1&sn=5417de954e44baa7f3cb8f5acd9b3b56&chksm=8704ac55b0732543d25186935ad0601869df8e8fecd052c2ead174c7db5d6fca7bfbdc7a143f#rd)
+
+### [Take your first steps with Rust - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/)

@@ -7,3 +7,5 @@
 
 ### [ [yocto] [meta-dpdk][PATCH] dpdk: igb_uio: fix build on Linux 5.3	for fall through
    ](https://www.yoctoproject.org/pipermail/yocto/2019-August/046273.html)
+
+### [mirrors/dpdk -  dpdk - Clarence's Git Server ](https://gitea.ananwork.com/mirrors/dpdk)

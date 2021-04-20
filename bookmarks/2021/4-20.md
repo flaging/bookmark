@@ -10,3 +10,7 @@
 ### [A Universal I/O Abstraction for C++ | cor3ntin](https://cor3ntin.github.io/posts/iouring/)
 
 ### [How are you writing a commit message? - DEV Community](https://dev.to/puritanic/how-are-you-writing-a-commit-message-1ih7)
+
+### [“追星”Transformer（一）：一文说清Transformer - 知乎](https://zhuanlan.zhihu.com/p/360932588)
+
+### [Linux内核代码大佬们如何观看的？ - 知乎](https://www.zhihu.com/question/439569498/answer/1699590292?utm_medium=social&utm_oi=49336847171584&utm_source=com.instapaper.android)

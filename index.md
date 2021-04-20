@@ -8,3 +8,5 @@
 ### [知乎日报 - 知乎](https://daily.zhihu.com/story/9735206)
 
 ### [A Universal I/O Abstraction for C++ | cor3ntin](https://cor3ntin.github.io/posts/iouring/)
+
+### [How are you writing a commit message? - DEV Community](https://dev.to/puritanic/how-are-you-writing-a-commit-message-1ih7)

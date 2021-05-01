@@ -18,3 +18,9 @@
 ### [手把手带你遨游TVM - 知乎](https://zhuanlan.zhihu.com/p/50529704)
 
 ### [GitHub - Ryuk17/SpeechAlgorithms: Speech Algorithms Collections](https://github.com/Ryuk17/SpeechAlgorithms)
+
+### [How to Work with Foreground and Background Process in Linux](https://www.linuxshelltips.com/foreground-and-background-process-in-linux/)
+
+### [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
+
+### [知乎日报 - 知乎](https://daily.zhihu.com/story/9735570)

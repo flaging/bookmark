@@ -25,3 +25,11 @@
 ](http://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651700626&idx=1&sn=0d8b92ecb251544f3e8960f8dae451c0&chksm=bd4c9a018a3b13177f1a480e4c41e361a8049a96f779e3031effbf9eca6c8ac1e74a566c4c98#rd)
 
 ### [Automating Workflows with GitHub Actions | by Paul Burkart | Novice Programmer’s Toolkit | May, 2021 | Medium](https://medium.com/novice-programmers-toolkit/automating-workflows-with-github-actions-5bd66cd5334f)
+
+### [GitHub - YatSenOS/YatSenOS-Tutorial-Volume-1: A Simple 32-bit OS lab tutorial.](https://github.com/YatSenOS/YatSenOS-Tutorial-Volume-1)
+
+### [WikiChip](https://en.wikichip.org/wiki/WikiChip)
+
+### [GitHub - k4m4/terminals-are-sexy: 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.](https://github.com/k4m4/terminals-are-sexy)
+
+### [作为一个有理想的程序员之必读书单 - 少数派](https://sspai.com/post/66875)

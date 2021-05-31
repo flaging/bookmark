@@ -33,3 +33,5 @@
 ### [GitHub - k4m4/terminals-are-sexy: 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.](https://github.com/k4m4/terminals-are-sexy)
 
 ### [作为一个有理想的程序员之必读书单 - 少数派](https://sspai.com/post/66875)
+
+### [Surprise Included: Inheritance and Member Functions of Class Templates - ModernesCpp.com](http://www.modernescpp.com/index.php/surprise-included-inheritance-and-member-functions-of-class-templates)
